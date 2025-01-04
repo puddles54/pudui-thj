@@ -2,6 +2,7 @@
 <XML ID="EQInterfaceDefinitionLanguage">
 	<Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
 	<WindowDrawTemplate item="WDT_defaultChat_Def">
+		<Background>pudui_bg_window.png</Background>
 		<VSBTemplate>
 			<UpButton>
 				<Normal>A_VSBUpNormal</Normal>
@@ -67,32 +68,32 @@
 			</MiddleTint>
 		</HSBTemplate>
 		<CloseBox>
-			<Normal>A_ChatClose</Normal>
-			<Pressed>A_ChatCloseP</Pressed>
-			<Flyby>A_ChatCloseH</Flyby>
-			<Disabled>A_ChatBlank</Disabled>
-			<PressedFlyby>A_ChatCloseH</PressedFlyby>
+			<Normal>A_CloseBtnNormal</Normal>
+			<Pressed>A_CloseBtnPressed</Pressed>
+			<Flyby>A_CloseBtnFlyby</Flyby>
+			<Disabled>A_CloseBtnDisabled</Disabled>
+			<PressedFlyby>A_CloseBtnPressedFlyby</PressedFlyby>
 		</CloseBox>
 		<QMarkBox>
-			<Normal>A_ChatQMarkBtnNormal</Normal>
-			<Pressed>A_ChatQMarkBtnPressed</Pressed>
-			<Flyby>A_ChatQMarkBtnFlyby</Flyby>
-			<Disabled>A_ChatQMarkBtnDisabled</Disabled>
-			<PressedFlyby>A_ChatQMarkBtnPressedFlyby</PressedFlyby>
+			<Normal>A_QMarkBtnNormal</Normal>
+			<Pressed>A_QMarkBtnPressed</Pressed>
+			<Flyby>A_QMarkBtnFlyby</Flyby>
+			<Disabled>A_QMarkBtnDisabled</Disabled>
+			<PressedFlyby>A_QMarkBtnPressedFlyby</PressedFlyby>
 		</QMarkBox>
 		<MinimizeBox>
-			<Normal>A_ChatMin</Normal>
-			<Pressed>A_ChatMinP</Pressed>
-			<Flyby>A_ChatMinH</Flyby>
-			<Disabled>A_ChatBlank</Disabled>
-			<PressedFlyby>A_ChatMinH</PressedFlyby>
+			<Normal>A_MinimizeBtnNormal</Normal>
+			<Pressed>A_MinimizeBtnPressed</Pressed>
+			<Flyby>A_MinimizeBtnFlyby</Flyby>
+			<Disabled>A_MinimizeBtnDisabled</Disabled>
+			<PressedFlyby>A_MinimizeBtnPressedFlyby</PressedFlyby>
 		</MinimizeBox>
 		<MaximizeBox>
-			<Normal>A_ChatMax</Normal>
-			<Pressed>A_ChatMaxP</Pressed>
-			<Flyby>A_ChatMaxH</Flyby>
-			<Disabled>A_ChatBlank</Disabled>
-			<PressedFlyby>A_ChatMaxH</PressedFlyby>
+			<Normal>A_MaximizeBtnNormal</Normal>
+			<Pressed>A_MaximizeBtnPressed</Pressed>
+			<Flyby>A_MaximizeBtnFlyby</Flyby>
+			<Disabled>A_MaximizeBtnDisabled</Disabled>
+			<PressedFlyby>A_MaximizeBtnPressedFlyby</PressedFlyby>
 		</MaximizeBox>
 		<TileBox>
 			<Normal>A_TileBtnNormal</Normal>
@@ -102,33 +103,32 @@
 			<PressedFlyby>A_TileBtnPressedFlyby</PressedFlyby>
 		</TileBox>
 		<Border>
-			<Top>A_ChatBorderFrameTop</Top>
-			<Right>A_ChatBorderFrameRight</Right>
-			<RightBottom>A_ChatBorderFrameRightBottom</RightBottom>
-			<BottomRight>A_ChatBorderFrameBottomRight</BottomRight>
-			<Bottom>A_ChatBorderFrameBottom</Bottom>
-			<BottomLeft>A_ChatBorderFrameBottomLeft</BottomLeft>
-			<LeftTop>A_ChatBorderFrameLeftTop</LeftTop>
-			<Left>A_ChatBorderFrameLeft</Left>
-			<LeftBottom>A_ChatBorderFrameLeftBottom</LeftBottom>
+			<TopLeft>A_RoundedFrameWithTitleTopLeft</TopLeft>
+			<Top>A_RoundedFrameWithTitleTop</Top>
+			<TopRight>A_RoundedFrameWithTitleTopRight</TopRight>
+			<RightTop>A_RoundedFrameWithTitleRightTop</RightTop>
+			<Right>A_RoundedFrameRight</Right>
+			<RightBottom>A_RoundedFrameRightBottom</RightBottom>
+			<BottomRight>A_RoundedFrameBottomRight</BottomRight>
+			<Bottom>A_RoundedFrameBottom</Bottom>
+			<BottomLeft>A_RoundedFrameBottomLeft</BottomLeft>
+			<LeftTop>A_RoundedFrameWithTitleLeftTop</LeftTop>
+			<Left>A_RoundedFrameLeft</Left>
+			<LeftBottom>A_RoundedFrameLeftBottom</LeftBottom>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>
 			<OverlapBottom>0</OverlapBottom>
-			<RightTop>A_ChatBorderFrameRightTop</RightTop>
-			<TopLeft>A_ChatBorderFrameTopLeft</TopLeft>
-			<TopRight>A_ChatBorderFrameTopRight</TopRight>
 		</Border>
 		<Titlebar>
-			<Left>A_ChatWindowTitleLeft</Left>
-			<Middle>A_ChatWindowTitleMiddle</Middle>
+			<Right>A_RoundedFrameTitleRight</Right>
+			<Left>A_RoundedFrameTitleLeft</Left>
+			<Middle>A_RoundedFrameTitleMiddle</Middle>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>
 			<OverlapBottom>0</OverlapBottom>
-			<Right>A_ChatWindowTitleRight</Right>
 		</Titlebar>
-		<Background>pudui_bg_dark.png</Background>
 	</WindowDrawTemplate>
 	<!-- Chat Window -->
 	<WindowDrawTemplate item="WDT_DefaultInnerBottom">
