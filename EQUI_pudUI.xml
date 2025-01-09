@@ -60,7 +60,7 @@
 <TextureInfo item="pudui_gauges.png">
     <Size>
         <CX>512</CX>
-        <CY>128</CY>
+        <CY>256</CY>
     </Size>
 </TextureInfo>
 <TextureInfo item="pudui_castbar.png">
@@ -75,502 +75,6 @@
         <CY>64</CY>
     </Size>
 </TextureInfo>
-
-<!-- Scroll Bars -->
-<Ui2DAnimation item="A_pudhudVSBUpNormal">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>475</X>
-			<Y>60</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBUpFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>487</X>
-			<Y>60</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBUpPressed">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>60</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBUpPressedFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>60</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBUpDisabled">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>475</X>
-			<Y>60</Y>
-		</Location>
-		<Size>
-			<CX>1</CX>
-			<CY>1</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBDownNormal">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>475</X>
-			<Y>70</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBDownFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>487</X>
-			<Y>70</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBDownPressed">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>70</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBDownPressedFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>70</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBDownDisabled">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>475</X>
-			<Y>70</Y>
-		</Location>
-		<Size>
-			<CX>1</CX>
-			<CY>1</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBThumbTop">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>487</X>
-			<Y>51</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>1</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBThumbMiddle">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>487</X>
-			<Y>51</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>7</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudVSBThumbBottom">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>487</X>
-			<Y>51</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>1</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBLeftNormal">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>490</X>
-			<Y>1</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBLeftFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>490</X>
-			<Y>13</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBLeftPressed">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>490</X>
-			<Y>25</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBLeftPressedFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>490</X>
-			<Y>25</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBLeftDisabled">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>490</X>
-			<Y>1</Y>
-		</Location>
-		<Size>
-			<CX>1</CX>
-			<CY>1</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBRightNormal">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>1</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBRightFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>13</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBRightPressed">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>25</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBRightPressedFlyby">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>25</Y>
-		</Location>
-		<Size>
-			<CX>12</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBRightDisabled">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>499</X>
-			<Y>1</Y>
-		</Location>
-		<Size>
-			<CX>1</CX>
-			<CY>1</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBThumbLeft">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>489</X>
-			<Y>37</Y>
-		</Location>
-		<Size>
-			<CX>1</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBThumbMiddle">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>489</X>
-			<Y>37</Y>
-		</Location>
-		<Size>
-			<CX>7</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
-<Ui2DAnimation item="A_pudhudHSBThumbRight">
-	<Cycle>true</Cycle>
-	<Frames>
-		<Texture>pudui_wp_hud.png</Texture>
-		<Location>
-			<X>489</X>
-			<Y>37</Y>
-		</Location>
-		<Size>
-			<CX>1</CX>
-			<CY>12</CY>
-		</Size>
-		<Hotspot>
-			<X>0</X>
-			<Y>0</Y>
-		</Hotspot>
-		<Duration>1000</Duration>
-	</Frames>
-</Ui2DAnimation>
 
 <!-- Title Bars -->
 <Ui2DAnimation item="A_pudhudTitleBar">
@@ -1853,6 +1357,27 @@
 			<Duration>1000</Duration>
 		</Frames>
 	</Ui2DAnimation>
+	<!-- Combo Box Dropdown -->
+	<Ui2DAnimation item="A_pudComboNormal">
+		<Cycle>true</Cycle>
+	<Frames>
+		<Texture>pudui_wp_hud.png</Texture>
+		<Location>
+			<X>443</X>
+			<Y>40</Y>
+		</Location>
+		<Size>
+			<CX>14</CX>
+			<CY>20</CY>
+		</Size>
+		<Hotspot>
+			<X>0</X>
+			<Y>0</Y>
+		</Hotspot>
+		<Duration>1000</Duration>
+	</Frames>
+	</Ui2DAnimation>
+
 <!-- Button Templates -->
 <ButtonDrawTemplate item="BDT_pudGroupInvite">
 	<Normal>A_pudGroupInviteNormal</Normal>
@@ -1902,23 +1427,23 @@
 	<Background>pudui_bg_hud.png</Background>
 	<VSBTemplate>
 		<UpButton>
-			<Normal>A_pudhudVSBUpNormal</Normal>
-			<Pressed>A_pudhudVSBUpPressed</Pressed>
-			<Flyby>A_pudhudVSBUpFlyby</Flyby>
-			<Disabled>A_pudhudVSBUpDisabled</Disabled>
-			<PressedFlyby>A_pudhudVSBUpPressedFlyby</PressedFlyby>
+			<Normal>A_VSBUpNormal</Normal>
+			<Pressed>A_VSBUpPressed</Pressed>
+			<Flyby>A_VSBUpFlyby</Flyby>
+			<Disabled>A_VSBUpDisabled</Disabled>
+			<PressedFlyby>A_VSBUpPressedFlyby</PressedFlyby>
 		</UpButton>
 		<DownButton>
-			<Normal>A_pudhudVSBDownNormal</Normal>
-			<Pressed>A_pudhudVSBDownPressed</Pressed>
-			<Flyby>A_pudhudVSBDownFlyby</Flyby>
-			<Disabled>A_pudhudVSBDownDisabled</Disabled>
-			<PressedFlyby>A_pudhudVSBDownPressedFlyby</PressedFlyby>
+			<Normal>A_VSBDownNormal</Normal>
+			<Pressed>A_VSBDownPressed</Pressed>
+			<Flyby>A_VSBDownFlyby</Flyby>
+			<Disabled>A_VSBDownDisabled</Disabled>
+			<PressedFlyby>A_VSBDownPressedFlyby</PressedFlyby>
 		</DownButton>
 		<Thumb>
-			<Top>A_pudhudVSBThumbTop</Top>
-			<Bottom>A_pudhudVSBThumbBottom</Bottom>
-			<Middle>A_pudhudVSBThumbMiddle</Middle>
+			<Top>A_VSBThumbTop</Top>
+			<Bottom>A_VSBThumbBottom</Bottom>
+			<Middle>A_VSBThumbMiddle</Middle>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>
@@ -1934,23 +1459,23 @@
 	</VSBTemplate>
 	<HSBTemplate>
 		<UpButton>
-			<Normal>A_pudhudHSBLeftNormal</Normal>
-			<Pressed>A_pudhudHSBLeftPressed</Pressed>
-			<Flyby>A_pudhudHSBLeftFlyby</Flyby>
-			<Disabled>A_pudhudHSBLeftDisabled</Disabled>
-			<PressedFlyby>A_pudhudHSBLeftPressedFlyby</PressedFlyby>
+			<Normal>A_HSBLeftNormal</Normal>
+			<Pressed>A_HSBLeftPressed</Pressed>
+			<Flyby>A_HSBLeftFlyby</Flyby>
+			<Disabled>A_HSBLeftDisabled</Disabled>
+			<PressedFlyby>A_HSBLeftPressedFlyby</PressedFlyby>
 		</UpButton>
 		<DownButton>
-			<Normal>A_pudhudHSBRightNormal</Normal>
-			<Pressed>A_pudhudHSBRightPressed</Pressed>
-			<Flyby>A_pudhudHSBRightFlyby</Flyby>
-			<Disabled>A_pudhudHSBRightDisabled</Disabled>
-			<PressedFlyby>A_pudhudHSBRightPressedFlyby</PressedFlyby>
+			<Normal>A_HSBRightNormal</Normal>
+			<Pressed>A_HSBRightPressed</Pressed>
+			<Flyby>A_HSBRightFlyby</Flyby>
+			<Disabled>A_HSBRightDisabled</Disabled>
+			<PressedFlyby>A_HSBRightPressedFlyby</PressedFlyby>
 		</DownButton>
 		<Thumb>
-			<Right>A_pudhudHSBThumbRight</Right>
-			<Left>A_pudhudHSBThumbLeft</Left>
-			<Middle>A_pudhudHSBThumbMiddle</Middle>
+			<Right>A_HSBThumbRight</Right>
+			<Left>A_HSBThumbLeft</Left>
+			<Middle>A_HSBThumbMiddle</Middle>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>
@@ -2031,23 +1556,23 @@
 	<Background>pudui_bg_hud.png</Background>
 	<VSBTemplate>
 		<UpButton>
-			<Normal>A_pudhudVSBUpNormal</Normal>
-			<Pressed>A_pudhudVSBUpPressed</Pressed>
-			<Flyby>A_pudhudVSBUpFlyby</Flyby>
-			<Disabled>A_pudhudVSBUpDisabled</Disabled>
-			<PressedFlyby>A_pudhudVSBUpPressedFlyby</PressedFlyby>
+			<Normal>A_VSBUpNormal</Normal>
+			<Pressed>A_VSBUpPressed</Pressed>
+			<Flyby>A_VSBUpFlyby</Flyby>
+			<Disabled>A_VSBUpDisabled</Disabled>
+			<PressedFlyby>A_VSBUpPressedFlyby</PressedFlyby>
 		</UpButton>
 		<DownButton>
-			<Normal>A_pudhudVSBDownNormal</Normal>
-			<Pressed>A_pudhudVSBDownPressed</Pressed>
-			<Flyby>A_pudhudVSBDownFlyby</Flyby>
-			<Disabled>A_pudhudVSBDownDisabled</Disabled>
-			<PressedFlyby>A_pudhudVSBDownPressedFlyby</PressedFlyby>
+			<Normal>A_VSBDownNormal</Normal>
+			<Pressed>A_VSBDownPressed</Pressed>
+			<Flyby>A_VSBDownFlyby</Flyby>
+			<Disabled>A_VSBDownDisabled</Disabled>
+			<PressedFlyby>A_VSBDownPressedFlyby</PressedFlyby>
 		</DownButton>
 		<Thumb>
-			<Top>A_pudhudVSBThumbTop</Top>
-			<Bottom>A_pudhudVSBThumbBottom</Bottom>
-			<Middle>A_pudhudVSBThumbMiddle</Middle>
+			<Top>A_VSBThumbTop</Top>
+			<Bottom>A_VSBThumbBottom</Bottom>
+			<Middle>A_VSBThumbMiddle</Middle>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>
@@ -2063,23 +1588,23 @@
 	</VSBTemplate>
 	<HSBTemplate>
 		<UpButton>
-			<Normal>A_pudhudHSBLeftNormal</Normal>
-			<Pressed>A_pudhudHSBLeftPressed</Pressed>
-			<Flyby>A_pudhudHSBLeftFlyby</Flyby>
-			<Disabled>A_pudhudHSBLeftDisabled</Disabled>
-			<PressedFlyby>A_pudhudHSBLeftPressedFlyby</PressedFlyby>
+			<Normal>A_HSBLeftNormal</Normal>
+			<Pressed>A_HSBLeftPressed</Pressed>
+			<Flyby>A_HSBLeftFlyby</Flyby>
+			<Disabled>A_HSBLeftDisabled</Disabled>
+			<PressedFlyby>A_HSBLeftPressedFlyby</PressedFlyby>
 		</UpButton>
 		<DownButton>
-			<Normal>A_pudhudHSBRightNormal</Normal>
-			<Pressed>A_pudhudHSBRightPressed</Pressed>
-			<Flyby>A_pudhudHSBRightFlyby</Flyby>
-			<Disabled>A_pudhudHSBRightDisabled</Disabled>
-			<PressedFlyby>A_pudhudHSBRightPressedFlyby</PressedFlyby>
+			<Normal>A_HSBRightNormal</Normal>
+			<Pressed>A_HSBRightPressed</Pressed>
+			<Flyby>A_HSBRightFlyby</Flyby>
+			<Disabled>A_HSBRightDisabled</Disabled>
+			<PressedFlyby>A_HSBRightPressedFlyby</PressedFlyby>
 		</DownButton>
 		<Thumb>
-			<Right>A_pudhudHSBThumbRight</Right>
-			<Left>A_pudhudHSBThumbLeft</Left>
-			<Middle>A_pudhudHSBThumbMiddle</Middle>
+			<Right>A_HSBThumbRight</Right>
+			<Left>A_HSBThumbLeft</Left>
+			<Middle>A_HSBThumbMiddle</Middle>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>

@@ -1,5 +1,7 @@
 # PudUI
 
+I recommend you set your font to **Segoe UI Semibold** under Options > General
+
 This is a WIP
 
 ![Screenshot](https://github.com/user-attachments/assets/8b3c30ef-125c-4bef-bea6-42e418677b63)
