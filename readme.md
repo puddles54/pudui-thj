@@ -17,14 +17,18 @@ This is a WIP
 ## Screenshots
 
 ### Player Window
-![Player Window](https://github.com/user-attachments/assets/2e31ab2d-aec8-4030-8272-7603d8ce0660)
+![Player Window](https://github.com/user-attachments/assets/d9a22576-7e55-4bba-bb2d-bf736ddde0a7)
 
 ### Target Window
 ![Target Window](https://github.com/user-attachments/assets/7b670102-7afe-4fc3-9ea4-1e4a7f32564f)
 
+### Pet Window
+![Pet Window](https://github.com/user-attachments/assets/01d955b8-cde5-4268-a41c-be952a4877d0)
+
 ### Group window
 
 ### Hotbuttons
+![Hotbuttons](https://github.com/user-attachments/assets/4f0f97d9-bb75-4acc-80f7-c853a73a258d)
 
 ### Spell Bar
 
