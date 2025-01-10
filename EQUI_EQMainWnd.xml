@@ -35,28 +35,28 @@
 	
 	<Ui2DAnimation item = "A_CascadeMenuSeparator">
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>80</X>
-				<Y>175</Y>
+				<X>35</X>
+				<Y>27</Y>
 			</Location>
 			<Size>
-				<CX>4</CX>
-				<CY>4</CY>
+				<CX>1</CX>
+				<CY>1</CY>
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
 	
 	<Ui2DAnimation item = "A_CascadeSubmenuIndicator">
 		<Frames>
-			<Texture>window_pieces05.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>164</X>
-				<Y>0</Y>
+				<X>34</X>
+				<Y>30</Y>
 			</Location>
 			<Size>
-				<CX>10</CX>
-				<CY>11</CY>
+				<CX>7</CX>
+				<CY>12</CY>
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
@@ -64,14 +64,14 @@
 	<Ui2DAnimation item = "A_EQBtnNormal">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces05.tga</Texture>
+			<Texture>pudui_buttons.png</Texture>
 			<Location>
-				<X>60</X>
-				<Y>26</Y>
+				<X>146</X>
+				<Y>50</Y>
 			</Location>
 			<Size>
-				<CX>44</CX>
-				<CY>44</CY>
+				<CX>24</CX>
+				<CY>24</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -84,14 +84,14 @@
 	<Ui2DAnimation item = "A_EQBtnFlyby">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces05.tga</Texture>
+			<Texture>pudui_buttons.png</Texture>
 			<Location>
-				<X>102</X>
-				<Y>26</Y>
+				<X>170</X>
+				<Y>50</Y>
 			</Location>
 			<Size>
-				<CX>44</CX>
-				<CY>44</CY>
+				<CX>24</CX>
+				<CY>24</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -104,14 +104,14 @@
 	<Ui2DAnimation item = "A_EQBtnPressed">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces05.tga</Texture>
+			<Texture>pudui_buttons.png</Texture>
 			<Location>
-				<X>144</X>
-				<Y>26</Y>
+				<X>170</X>
+				<Y>50</Y>
 			</Location>
 			<Size>
-				<CX>44</CX>
-				<CY>44</CY>
+				<CX>24</CX>
+				<CY>24</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -124,14 +124,14 @@
 	<Ui2DAnimation item = "A_EQBtnPressedFlyby">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces05.tga</Texture>
+			<Texture>pudui_buttons.png</Texture>
 			<Location>
-				<X>186</X>
-				<Y>26</Y>
+				<X>170</X>
+				<Y>50</Y>
 			</Location>
 			<Size>
-				<CX>44</CX>
-				<CY>44</CY>
+				<CX>24</CX>
+				<CY>24</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -144,14 +144,14 @@
 	<Ui2DAnimation item = "A_EQBtnDisabled">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces05.tga</Texture>
+			<Texture>pudui_buttons.png</Texture>
 			<Location>
-				<X>60</X>
-				<Y>68</Y>
+				<X>0</X>
+				<Y>0</Y>
 			</Location>
 			<Size>
-				<CX>44</CX>
-				<CY>44</CY>
+				<CX>0</CX>
+				<CY>0</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -256,8 +256,8 @@
 			<Y>6</Y>
 		</Location>
 		<Size>
-			<CX>10</CX>
-			<CY>11</CY>
+			<CX>7</CX>
+			<CY>12</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -437,7 +437,49 @@
 			<PressedFlyby>A_EQBtnPressedFlyby</PressedFlyby>
 		</ButtonDrawTemplate>
 	</Button>
+	
+	<Button item = "EQM_SCButton">
+		<ScreenID>SCButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>42</CX>
+			<CY>42</CY>
+		</Size>
+		<TooltipReference>Click this to open the Marketplace</TooltipReference>
+		<Template>BDT_SCBtn</Template>
+	</Button>
 
+	<Button item = "EQM_SCFSButton">
+		<ScreenID>SCFSButton</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>42</CX>
+			<CY>42</CY>
+		</Size>
+		<TooltipReference>Click this to open the Marketplace</TooltipReference>
+		<Template>BDT_SCFSBtn</Template>
+	</Button>
+
+	<Screen item="EQM_Hidden">
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+			<Pieces>EQM_SCButton</Pieces>
+			<Pieces>EQM_SCFSButton</Pieces>
+	</Screen>
 
 	<Screen item = "EQMainWnd">
 		<ScreenID/>
@@ -462,5 +504,6 @@
 		<Style_Border>true</Style_Border>
 		<Style_Sizable>false</Style_Sizable>
 			<Pieces>EQM_EQButton</Pieces>
+			<Pieces>Screen:EQM_Hidden</Pieces>
 	</Screen>
 </XML>

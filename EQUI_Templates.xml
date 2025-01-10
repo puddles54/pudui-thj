@@ -252,70 +252,70 @@
 	</WindowDrawTemplate>
 	<WindowDrawTemplate item="WDT_Def">
 		<Background>pudui_bg_window.png</Background>
-	<VSBTemplate>
-		<UpButton>
-			<Normal>A_VSBUpNormal</Normal>
-			<Pressed>A_VSBUpPressed</Pressed>
-			<Flyby>A_VSBUpFlyby</Flyby>
-			<Disabled>A_VSBUpDisabled</Disabled>
-			<PressedFlyby>A_VSBUpPressedFlyby</PressedFlyby>
-		</UpButton>
-		<DownButton>
-			<Normal>A_VSBDownNormal</Normal>
-			<Pressed>A_VSBDownPressed</Pressed>
-			<Flyby>A_VSBDownFlyby</Flyby>
-			<Disabled>A_VSBDownDisabled</Disabled>
-			<PressedFlyby>A_VSBDownPressedFlyby</PressedFlyby>
-		</DownButton>
-		<Thumb>
-			<Top>A_VSBThumbTop</Top>
-			<Bottom>A_VSBThumbBottom</Bottom>
-			<Middle>A_VSBThumbMiddle</Middle>
-			<OverlapLeft>0</OverlapLeft>
-			<OverlapTop>0</OverlapTop>
-			<OverlapRight>0</OverlapRight>
-			<OverlapBottom>0</OverlapBottom>
-		</Thumb>
-		<MiddleTextureInfo>pudhud_scrollbargutter.png</MiddleTextureInfo>
-		<MiddleTint>
-			<Alpha>255</Alpha>
-			<R>128</R>
-			<G>128</G>
-			<B>128</B>
-		</MiddleTint>
-	</VSBTemplate>
-	<HSBTemplate>
-		<UpButton>
-			<Normal>A_HSBLeftNormal</Normal>
-			<Pressed>A_HSBLeftPressed</Pressed>
-			<Flyby>A_HSBLeftFlyby</Flyby>
-			<Disabled>A_HSBLeftDisabled</Disabled>
-			<PressedFlyby>A_HSBLeftPressedFlyby</PressedFlyby>
-		</UpButton>
-		<DownButton>
-			<Normal>A_HSBRightNormal</Normal>
-			<Pressed>A_HSBRightPressed</Pressed>
-			<Flyby>A_HSBRightFlyby</Flyby>
-			<Disabled>A_HSBRightDisabled</Disabled>
-			<PressedFlyby>A_HSBRightPressedFlyby</PressedFlyby>
-		</DownButton>
-		<Thumb>
-			<Right>A_HSBThumbRight</Right>
-			<Left>A_HSBThumbLeft</Left>
-			<Middle>A_HSBThumbMiddle</Middle>
-			<OverlapLeft>0</OverlapLeft>
-			<OverlapTop>0</OverlapTop>
-			<OverlapRight>0</OverlapRight>
-			<OverlapBottom>0</OverlapBottom>
-		</Thumb>
-		<MiddleTextureInfo>pudhud_scrollbargutter.png</MiddleTextureInfo>
-		<MiddleTint>
-			<Alpha>255</Alpha>
-			<R>128</R>
-			<G>128</G>
-			<B>128</B>
-		</MiddleTint>
-	</HSBTemplate>
+		<VSBTemplate>
+			<UpButton>
+				<Normal>A_VSBUpNormal</Normal>
+				<Pressed>A_VSBUpPressed</Pressed>
+				<Flyby>A_VSBUpFlyby</Flyby>
+				<Disabled>A_VSBUpDisabled</Disabled>
+				<PressedFlyby>A_VSBUpPressedFlyby</PressedFlyby>
+			</UpButton>
+			<DownButton>
+				<Normal>A_VSBDownNormal</Normal>
+				<Pressed>A_VSBDownPressed</Pressed>
+				<Flyby>A_VSBDownFlyby</Flyby>
+				<Disabled>A_VSBDownDisabled</Disabled>
+				<PressedFlyby>A_VSBDownPressedFlyby</PressedFlyby>
+			</DownButton>
+			<Thumb>
+				<Top>A_VSBThumbTop</Top>
+				<Bottom>A_VSBThumbBottom</Bottom>
+				<Middle>A_VSBThumbMiddle</Middle>
+				<OverlapLeft>0</OverlapLeft>
+				<OverlapTop>0</OverlapTop>
+				<OverlapRight>0</OverlapRight>
+				<OverlapBottom>0</OverlapBottom>
+			</Thumb>
+			<MiddleTextureInfo>pudhud_scrollbargutter.png</MiddleTextureInfo>
+			<MiddleTint>
+				<Alpha>255</Alpha>
+				<R>128</R>
+				<G>128</G>
+				<B>128</B>
+			</MiddleTint>
+		</VSBTemplate>
+		<HSBTemplate>
+			<UpButton>
+				<Normal>A_HSBLeftNormal</Normal>
+				<Pressed>A_HSBLeftPressed</Pressed>
+				<Flyby>A_HSBLeftFlyby</Flyby>
+				<Disabled>A_HSBLeftDisabled</Disabled>
+				<PressedFlyby>A_HSBLeftPressedFlyby</PressedFlyby>
+			</UpButton>
+			<DownButton>
+				<Normal>A_HSBRightNormal</Normal>
+				<Pressed>A_HSBRightPressed</Pressed>
+				<Flyby>A_HSBRightFlyby</Flyby>
+				<Disabled>A_HSBRightDisabled</Disabled>
+				<PressedFlyby>A_HSBRightPressedFlyby</PressedFlyby>
+			</DownButton>
+			<Thumb>
+				<Right>A_HSBThumbRight</Right>
+				<Left>A_HSBThumbLeft</Left>
+				<Middle>A_HSBThumbMiddle</Middle>
+				<OverlapLeft>0</OverlapLeft>
+				<OverlapTop>0</OverlapTop>
+				<OverlapRight>0</OverlapRight>
+				<OverlapBottom>0</OverlapBottom>
+			</Thumb>
+			<MiddleTextureInfo>pudhud_scrollbargutter.png</MiddleTextureInfo>
+			<MiddleTint>
+				<Alpha>255</Alpha>
+				<R>128</R>
+				<G>128</G>
+				<B>128</B>
+			</MiddleTint>
+		</HSBTemplate>
 		<CloseBox>
 			<Normal>A_CloseBtnNormal</Normal>
 			<Pressed>A_CloseBtnPressed</Pressed>
@@ -1994,7 +1994,7 @@
 				<OverlapRight>0</OverlapRight>
 				<OverlapBottom>0</OverlapBottom>
 			</Thumb>
-			<MiddleTextureInfo>scrollbar_gutter.tga</MiddleTextureInfo>
+			<MiddleTextureInfo>pudhud_scrollbargutter.png</MiddleTextureInfo>
 			<MiddleTint>
 				<Alpha>255</Alpha>
 				<R>128</R>
@@ -2026,7 +2026,7 @@
 				<OverlapRight>0</OverlapRight>
 				<OverlapBottom>0</OverlapBottom>
 			</Thumb>
-			<MiddleTextureInfo>scrollbar_Hgutter.tga</MiddleTextureInfo>
+			<MiddleTextureInfo>pudhud_scrollbargutter.png</MiddleTextureInfo>
 			<MiddleTint>
 				<Alpha>255</Alpha>
 				<R>128</R>
@@ -2035,32 +2035,32 @@
 			</MiddleTint>
 		</HSBTemplate>
 		<CloseBox>
-			<Normal>A_ChatClose</Normal>
-			<Pressed>A_ChatCloseP</Pressed>
-			<Flyby>A_ChatCloseH</Flyby>
-			<Disabled>A_ChatBlank</Disabled>
-			<PressedFlyby>A_ChatCloseH</PressedFlyby>
+			<Normal>A_CloseBtnNormal</Normal>
+			<Pressed>A_CloseBtnPressed</Pressed>
+			<Flyby>A_CloseBtnFlyby</Flyby>
+			<Disabled>A_CloseBtnDisabled</Disabled>
+			<PressedFlyby>A_CloseBtnPressedFlyby</PressedFlyby>
 		</CloseBox>
 		<QMarkBox>
-			<Normal>A_ChatQMarkBtnNormal</Normal>
-			<Pressed>A_ChatQMarkBtnPressed</Pressed>
-			<Flyby>A_ChatQMarkBtnFlyby</Flyby>
-			<Disabled>A_ChatQMarkBtnDisabled</Disabled>
-			<PressedFlyby>A_ChatQMarkBtnPressedFlyby</PressedFlyby>
+			<Normal>A_QMarkBtnNormal</Normal>
+			<Pressed>A_QMarkBtnPressed</Pressed>
+			<Flyby>A_QMarkBtnFlyby</Flyby>
+			<Disabled>A_QMarkBtnDisabled</Disabled>
+			<PressedFlyby>A_QMarkBtnPressedFlyby</PressedFlyby>
 		</QMarkBox>
 		<MinimizeBox>
-			<Normal>A_ChatMin</Normal>
-			<Pressed>A_ChatMinP</Pressed>
-			<Flyby>A_ChatMinH</Flyby>
-			<Disabled>A_ChatBlank</Disabled>
-			<PressedFlyby>A_ChatMinH</PressedFlyby>
+			<Normal>A_MinimizeBtnNormal</Normal>
+			<Pressed>A_MinimizeBtnPressed</Pressed>
+			<Flyby>A_MinimizeBtnFlyby</Flyby>
+			<Disabled>A_MinimizeBtnDisabled</Disabled>
+			<PressedFlyby>A_MinimizeBtnPressedFlyby</PressedFlyby>
 		</MinimizeBox>
 		<MaximizeBox>
-			<Normal>A_ChatMax</Normal>
-			<Pressed>A_ChatMaxP</Pressed>
-			<Flyby>A_ChatMaxH</Flyby>
-			<Disabled>A_ChatBlank</Disabled>
-			<PressedFlyby>A_ChatMaxH</PressedFlyby>
+			<Normal>A_MaximizeBtnNormal</Normal>
+			<Pressed>A_MaximizeBtnPressed</Pressed>
+			<Flyby>A_MaximizeBtnFlyby</Flyby>
+			<Disabled>A_MaximizeBtnDisabled</Disabled>
+			<PressedFlyby>A_MaximizeBtnPressedFlyby</PressedFlyby>
 		</MaximizeBox>
 		<TileBox>
 			<Normal>A_TileBtnNormal</Normal>
@@ -2070,27 +2070,27 @@
 			<PressedFlyby>A_TileBtnPressedFlyby</PressedFlyby>
 		</TileBox>
 		<Border>
-			<Right>A_FiligreeThinFrameRight</Right>
-			<RightBottom>A_FiligreeThinFrameRightBottom</RightBottom>
-			<BottomRight>A_FiligreeFrameBottomRight</BottomRight>
-			<Bottom>A_FiligreeFrameBottom</Bottom>
-			<BottomLeft>A_FiligreeFrameBottomLeft</BottomLeft>
-			<LeftTop>A_FiligreeThinFrameLeftTop</LeftTop>
-			<Left>A_FiligreeThinFrameLeft</Left>
-			<LeftBottom>A_FiligreeThinFrameLeftBottom</LeftBottom>
+			<TopLeft>A_RoundedFrameWithTitleTopLeft</TopLeft>
+			<Top>A_RoundedFrameWithTitleTop</Top>
+			<TopRight>A_RoundedFrameWithTitleTopRight</TopRight>
+			<RightTop>A_RoundedFrameWithTitleRightTop</RightTop>
+			<Right>A_RoundedFrameRight</Right>
+			<RightBottom>A_RoundedFrameRightBottom</RightBottom>
+			<BottomRight>A_RoundedFrameBottomRight</BottomRight>
+			<Bottom>A_RoundedFrameBottom</Bottom>
+			<BottomLeft>A_RoundedFrameBottomLeft</BottomLeft>
+			<LeftTop>A_RoundedFrameWithTitleLeftTop</LeftTop>
+			<Left>A_RoundedFrameLeft</Left>
+			<LeftBottom>A_RoundedFrameLeftBottom</LeftBottom>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>
 			<OverlapBottom>0</OverlapBottom>
-			<Top>A_FiligreeFrameTop</Top>
-			<TopLeft>A_FiligreeFrameTopLeft</TopLeft>
-			<TopRight>A_FiligreeFrameTopRight</TopRight>
-			<RightTop>A_FiligreeThinFrameRightTop</RightTop>
 		</Border>
 		<Titlebar>
-			<Right>A_FiligreeFrameTitleRight</Right>
-			<Left>A_FiligreeFrameTitleLeft</Left>
-			<Middle>A_FiligreeFrameTitleMiddle</Middle>
+			<Right>A_RoundedFrameTitleRight</Right>
+			<Left>A_RoundedFrameTitleLeft</Left>
+			<Middle>A_RoundedFrameTitleMiddle</Middle>
 			<OverlapLeft>0</OverlapLeft>
 			<OverlapTop>0</OverlapTop>
 			<OverlapRight>0</OverlapRight>

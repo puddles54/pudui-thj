@@ -1148,5 +1148,6 @@
 		<Pieces>CAW_CombatEffectButton</Pieces>
 		<Pieces>CAW_CombatEffectLabel</Pieces>
 		<Pieces>CAW_OpenCombatSkillSelectWnd</Pieces>
+		<Pieces>Screen:CAW_Hidden</Pieces>
 	</Screen>
 </XML>
