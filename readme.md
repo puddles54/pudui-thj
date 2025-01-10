@@ -28,7 +28,7 @@ This is a WIP
 ### Group window
 
 ### Hotbuttons
-![Hotbuttons](https://github.com/user-attachments/assets/4f0f97d9-bb75-4acc-80f7-c853a73a258d)
+![Hotbuttons](https://github.com/user-attachments/assets/48258521-fb76-4d90-8233-64118203e799)
 
 ### Spell Bar
 
