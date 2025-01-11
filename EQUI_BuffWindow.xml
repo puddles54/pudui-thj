@@ -5,17 +5,17 @@
 		<ScreenID>Buff0</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>170</CX>
-			<CY>24</CY>
+			<CX>40</CX>
+			<CY>28</CY>
 		</Size>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff1_Button">
@@ -23,12 +23,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff2_Button">
@@ -36,12 +36,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff3_Button">
@@ -49,12 +49,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff4_Button">
@@ -62,12 +62,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff5_Button">
@@ -75,12 +75,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff6_Button">
@@ -88,12 +88,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff7_Button">
@@ -101,12 +101,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff8_Button">
@@ -114,12 +114,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff9_Button">
@@ -127,12 +127,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff10_Button">
@@ -140,12 +140,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff11_Button">
@@ -153,12 +153,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff12_Button">
@@ -166,12 +166,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff13_Button">
@@ -179,12 +179,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff14_Button">
@@ -192,12 +192,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff15_Button">
@@ -205,12 +205,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff16_Button">
@@ -218,12 +218,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff17_Button">
@@ -231,12 +231,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff18_Button">
@@ -244,12 +244,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff19_Button">
@@ -257,12 +257,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff20_Button">
@@ -270,12 +270,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff21_Button">
@@ -283,12 +283,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff22_Button">
@@ -296,12 +296,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff23_Button">
@@ -309,12 +309,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff24_Button">
@@ -322,12 +322,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff25_Button">
@@ -335,12 +335,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff26_Button">
@@ -348,12 +348,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff27_Button">
@@ -361,12 +361,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff28_Button">
@@ -374,12 +374,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff29_Button">
@@ -387,12 +387,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff30_Button">
@@ -400,12 +400,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff31_Button">
@@ -413,12 +413,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff32_Button">
@@ -426,12 +426,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff33_Button">
@@ -439,12 +439,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff34_Button">
@@ -452,12 +452,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff35_Button">
@@ -465,12 +465,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff36_Button">
@@ -478,12 +478,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff37_Button">
@@ -491,12 +491,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff38_Button">
@@ -504,12 +504,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff39_Button">
@@ -517,12 +517,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff40_Button">
@@ -530,12 +530,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="BW_Buff41_Button">
@@ -543,12 +543,12 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<DecalOffset>
-			<X>146</X>
+			<X>12</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 
@@ -559,7 +559,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -580,7 +580,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -601,7 +601,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -622,7 +622,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -643,7 +643,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -664,7 +664,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -685,7 +685,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -706,7 +706,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -727,7 +727,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -748,7 +748,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -769,7 +769,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -790,7 +790,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -811,7 +811,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -832,7 +832,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -853,7 +853,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -874,7 +874,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -895,7 +895,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -916,7 +916,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -937,7 +937,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -958,7 +958,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -979,7 +979,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1000,7 +1000,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1021,7 +1021,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1042,7 +1042,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1063,7 +1063,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1084,7 +1084,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1105,7 +1105,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1126,7 +1126,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1147,7 +1147,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1168,7 +1168,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1189,7 +1189,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1210,7 +1210,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1231,7 +1231,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1252,7 +1252,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1273,7 +1273,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1294,7 +1294,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1315,7 +1315,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1336,7 +1336,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1357,7 +1357,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1378,7 +1378,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1399,7 +1399,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1420,7 +1420,7 @@
 	<AutoStretch>true</AutoStretch>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>5</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
@@ -1435,11 +1435,11 @@
 	</TextColor>
 </Label>
 <Screen item="BW_Buff0Screen">
-	<Size>
-		<CX>144</CX>
-		<CY>24</CY>
-	</Size>
-		<Pieces>BW_Buff0Label</Pieces>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>true</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<BottomAnchorOffset>28</BottomAnchorOffset>
+	<Pieces>BW_Buff0Label</Pieces>
 </Screen>
 <Screen item="BW_Buff1Screen">
 	<Pieces>BW_Buff1Label</Pieces>
@@ -1568,12 +1568,14 @@
 <TileLayoutBox item="BW_Labels">
 	<RelativePosition>true</RelativePosition>
 	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
 	<TopAnchorOffset>0</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
-	<RightAnchorOffset>26</RightAnchorOffset>
+	<RightAnchorOffset>44</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
-	<BottomAnchorToTop>false</BottomAnchorToTop>
-	<RightAnchorToLeft>false</RightAnchorToLeft>
 	<Style_Transparent>true</Style_Transparent>
 	<Spacing>0</Spacing>
 	<SecondarySpacing>0</SecondarySpacing>
@@ -1581,7 +1583,7 @@
 	<AnchorToTop>true</AnchorToTop>
 	<AnchorToLeft>true</AnchorToLeft>
 	<FirstPieceTemplate>true</FirstPieceTemplate>
-	<SnapToChildren>true</SnapToChildren>
+	<SnapToChildren>false</SnapToChildren>
 	<Style_Sizable>false</Style_Sizable>
 	<Style_Tooltip>false</Style_Tooltip>
 	<Pieces>Screen:BW_Buff0Screen</Pieces>
@@ -1687,8 +1689,8 @@
 <Label item="BW_Buff0Number">
 	<Text>1</Text>
 	<Size>
-		<CX>24</CX>
-		<CY>24</CY>
+		<CX>28</CX>
+		<CY>28</CY>
 	</Size>
 	<AlignCenter>true</AlignCenter>
 	<TextColor>
@@ -2072,8 +2074,8 @@
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<LeftAnchorToLeft>false</LeftAnchorToLeft>
 	<RightAnchorToLeft>false</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
-	<LeftAnchorOffset>24</LeftAnchorOffset>
+	<TopAnchorOffset>6</TopAnchorOffset>
+	<LeftAnchorOffset>28</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Style_Transparent>true</Style_Transparent>
@@ -2083,7 +2085,7 @@
 	<AnchorToTop>true</AnchorToTop>
 	<AnchorToLeft>true</AnchorToLeft>
 	<FirstPieceTemplate>true</FirstPieceTemplate>
-	<SnapToChildren>true</SnapToChildren>
+	<SnapToChildren>false</SnapToChildren>
 	<Style_Sizable>false</Style_Sizable>
 	<Style_Tooltip>false</Style_Tooltip>
 	<Pieces>BW_Buff0Number</Pieces>
@@ -2140,8 +2142,8 @@
 			<CX>104</CX>
 			<CY>395</CY>
     </Size>
-	<MinHSize>175</MinHSize>
-	<MinVSize>26</MinVSize>
+	<MinHSize>100</MinHSize>
+	<MinVSize>34</MinVSize>
     <Style_HScroll>false</Style_HScroll>
     <Style_Transparent>true</Style_Transparent>
     <DrawTemplate>WDT_PudHudInvisBorder</DrawTemplate>
@@ -2150,14 +2152,6 @@
     <Style_Minimizebox>false</Style_Minimizebox>
     <Style_Border>true</Style_Border>
     <Style_Sizable>true</Style_Sizable>
-	<Style_SizableBorderTop>false</Style_SizableBorderTop>
-	<Style_SizableBorderLeft>false</Style_SizableBorderLeft>
-	<Style_SizableBorderTopLeft>true</Style_SizableBorderTopLeft>
-	<Style_SizableBorderTopRight>true</Style_SizableBorderTopRight>
-	<Style_SizableBorderRight>false</Style_SizableBorderRight>
-	<Style_SizableBorderBottom>true</Style_SizableBorderBottom>
-	<Style_SizableBorderBottomRight>true</Style_SizableBorderBottomRight>
-	<Style_SizableBorderBottomLeft>true</Style_SizableBorderBottomLeft>
     <Escapable>false</Escapable>
 	<Style_ClientMovable>true</Style_ClientMovable>
 	<Pieces>TileLayoutBox:BW_Numbers</Pieces>

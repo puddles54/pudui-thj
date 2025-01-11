@@ -6,16 +6,16 @@
 		<RelativePosition>true</RelativePosition>
 		<Template>BDT_BlueBuff</Template>
 		<Size>
-			<CX>170</CX>
-			<CY>24</CY>
+			<CX>40</CX>
+			<CY>28</CY>
 		</Size>
 		<DecalOffset>
 			<X>0</X>
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff1_Button">
@@ -27,8 +27,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff2_Button">
@@ -40,8 +40,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff3_Button">
@@ -53,8 +53,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff4_Button">
@@ -66,8 +66,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff5_Button">
@@ -79,8 +79,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff6_Button">
@@ -92,8 +92,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff7_Button">
@@ -105,8 +105,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff8_Button">
@@ -118,8 +118,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff9_Button">
@@ -131,8 +131,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff10_Button">
@@ -144,8 +144,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff11_Button">
@@ -157,8 +157,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff12_Button">
@@ -170,8 +170,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff13_Button">
@@ -183,8 +183,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff14_Button">
@@ -196,8 +196,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff15_Button">
@@ -209,8 +209,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff16_Button">
@@ -222,8 +222,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff17_Button">
@@ -235,8 +235,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff18_Button">
@@ -248,8 +248,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 	<Button item="SDBW_Buff19_Button">
@@ -261,8 +261,8 @@
 			<Y>0</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>28</CX>
+			<CY>28</CY>
 		</DecalSize>
 	</Button>
 
@@ -270,14 +270,13 @@
 	<ScreenID>SDBuff0Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
 	<Font>3</Font>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<EQType>600</EQType>
 	<NoWrap>true</NoWrap>
 	<Style_Tooltip>false</Style_Tooltip>
@@ -291,14 +290,13 @@
 	<ScreenID>SDBuff1Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
 	<Font>3</Font>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<EQType>601</EQType>
 	<NoWrap>true</NoWrap>
 	<Style_Tooltip>false</Style_Tooltip>
@@ -312,14 +310,13 @@
 	<ScreenID>SDBuff2Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
 	<Font>3</Font>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<EQType>602</EQType>
 	<NoWrap>true</NoWrap>
 	<Style_Tooltip>false</Style_Tooltip>
@@ -333,14 +330,13 @@
 	<ScreenID>SDBuff3Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
 	<Font>3</Font>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<EQType>603</EQType>
 	<NoWrap>true</NoWrap>
 	<Style_Tooltip>false</Style_Tooltip>
@@ -353,14 +349,13 @@
 <Label item="SDBW_Song4Label">
 	<ScreenID>SDBuff4Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>604</EQType>
 	<NoWrap>true</NoWrap>
@@ -374,14 +369,13 @@
 <Label item="SDBW_Song5Label">
 	<ScreenID>SDBuff5Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>605</EQType>
 	<NoWrap>true</NoWrap>
@@ -395,14 +389,13 @@
 <Label item="SDBW_Song6Label">
 	<ScreenID>SDBuff6Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>606</EQType>
 	<NoWrap>true</NoWrap>
@@ -416,14 +409,13 @@
 <Label item="SDBW_Song7Label">
 	<ScreenID>SDBuff7Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>607</EQType>
 	<NoWrap>true</NoWrap>
@@ -437,14 +429,13 @@
 <Label item="SDBW_Song8Label">
 	<ScreenID>SDBuff8Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>608</EQType>
 	<NoWrap>true</NoWrap>
@@ -458,14 +449,13 @@
 <Label item="SDBW_Song9Label">
 	<ScreenID>SDBuff9Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>609</EQType>
 	<NoWrap>true</NoWrap>
@@ -479,14 +469,13 @@
 <Label item="SDBW_Song10Label">
 	<ScreenID>SDBuff10Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>610</EQType>
 	<NoWrap>true</NoWrap>
@@ -500,14 +489,13 @@
 <Label item="SDBW_Song11Label">
 	<ScreenID>SDBuff11Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>611</EQType>
 	<NoWrap>true</NoWrap>
@@ -521,14 +509,13 @@
 <Label item="SDBW_Song12Label">
 	<ScreenID>SDBuff12Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>612</EQType>
 	<NoWrap>true</NoWrap>
@@ -542,14 +529,13 @@
 <Label item="SDBW_Song13Label">
 	<ScreenID>SDBuff13Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>613</EQType>
 	<NoWrap>true</NoWrap>
@@ -563,14 +549,13 @@
 <Label item="SDBW_Song14Label">
 	<ScreenID>SDBuff14Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>614</EQType>
 	<NoWrap>true</NoWrap>
@@ -584,14 +569,13 @@
 <Label item="SDBW_Song15Label">
 	<ScreenID>SDBuff15Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>615</EQType>
 	<NoWrap>true</NoWrap>
@@ -605,14 +589,13 @@
 <Label item="SDBW_Song16Label">
 	<ScreenID>SDBuff16Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>616</EQType>
 	<NoWrap>true</NoWrap>
@@ -626,14 +609,13 @@
 <Label item="SDBW_Song17Label">
 	<ScreenID>SDBuff17Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>617</EQType>
 	<NoWrap>true</NoWrap>
@@ -647,14 +629,13 @@
 <Label item="SDBW_Song18Label">
 	<ScreenID>SDBuff18Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>618</EQType>
 	<NoWrap>true</NoWrap>
@@ -668,14 +649,13 @@
 <Label item="SDBW_Song19Label">
 	<ScreenID>SDBuff19Label</ScreenID>
 	<RelativePosition>true</RelativePosition>
-	<Location>
-		<X>28</X>
-		<Y>2</Y>
-	</Location>
-	<Size>
-		<CX>140</CX>
-		<CY>24</CY>
-	</Size>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>5</TopAnchorOffset>
+	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<RightAnchorOffset>0</RightAnchorOffset>
+	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Font>3</Font>
 	<EQType>619</EQType>
 	<NoWrap>true</NoWrap>
@@ -687,11 +667,11 @@
 	</TextColor>
 </Label>
 <Screen item="SDBW_Song0Screen">
-	<Size>
-		<CX>144</CX>
-		<CY>24</CY>
-	</Size>
-		<Pieces>SDBW_Song0Label</Pieces>
+	<AutoStretch>true</AutoStretch>
+	<BottomAnchorToTop>true</BottomAnchorToTop>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<BottomAnchorOffset>28</BottomAnchorOffset>
+	<Pieces>SDBW_Song0Label</Pieces>
 </Screen>
 <Screen item="SDBW_Song1Screen">
 	<Pieces>SDBW_Song1Label</Pieces>
@@ -754,8 +734,8 @@
 <Label item="SDBW_Song0Number">
 	<Text>1</Text>
 	<Size>
-		<CX>24</CX>
-		<CY>24</CY>
+		<CX>28</CX>
+		<CY>28</CY>
 	</Size>
 	<AlignCenter>true</AlignCenter>
 </Label>
@@ -840,7 +820,7 @@
 	<RelativePosition>true</RelativePosition>
 	<AutoStretch>true</AutoStretch>
 	<TopAnchorOffset>0</TopAnchorOffset>
-	<LeftAnchorOffset>0</LeftAnchorOffset>
+	<LeftAnchorOffset>44</LeftAnchorOffset>
 	<RightAnchorOffset>0</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<BottomAnchorToTop>false</BottomAnchorToTop>
@@ -883,9 +863,9 @@
 	<BottomAnchorToTop>false</BottomAnchorToTop>
 	<LeftAnchorToLeft>true</LeftAnchorToLeft>
 	<RightAnchorToLeft>true</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>6</TopAnchorOffset>
 	<LeftAnchorOffset>0</LeftAnchorOffset>
-	<RightAnchorOffset>24</RightAnchorOffset>
+	<RightAnchorOffset>28</RightAnchorOffset>
 	<BottomAnchorOffset>0</BottomAnchorOffset>
 	<Style_Transparent>true</Style_Transparent>
 	<Spacing>0</Spacing>
@@ -929,7 +909,7 @@
 		<SecondarySpacing>0</SecondarySpacing>
 		<HorizontalFirst>false</HorizontalFirst>
 		<AnchorToTop>true</AnchorToTop>
-		<AnchorToLeft>false</AnchorToLeft>
+		<AnchorToLeft>true</AnchorToLeft>
 		<FirstPieceTemplate>true</FirstPieceTemplate>
 		<Pieces>SDBW_Buff0_Button</Pieces>
 		<Pieces>SDBW_Buff1_Button</Pieces>
@@ -964,8 +944,8 @@
 			<CX>104</CX>
 			<CY>160</CY>
 		</Size>
-	<MinHSize>175</MinHSize>
-	<MinVSize>26</MinVSize>
+	<MinHSize>100</MinHSize>
+	<MinVSize>34</MinVSize>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -976,14 +956,6 @@
 		<Style_Minimizebox>true</Style_Minimizebox>
 		<Style_Border>true</Style_Border>
 		<Style_Sizable>true</Style_Sizable>
-		<Style_SizableBorderTop>false</Style_SizableBorderTop>
-		<Style_SizableBorderLeft>false</Style_SizableBorderLeft>
-		<Style_SizableBorderTopLeft>true</Style_SizableBorderTopLeft>
-		<Style_SizableBorderTopRight>true</Style_SizableBorderTopRight>
-		<Style_SizableBorderRight>false</Style_SizableBorderRight>
-		<Style_SizableBorderBottom>true</Style_SizableBorderBottom>
-		<Style_SizableBorderBottomRight>true</Style_SizableBorderBottomRight>
-		<Style_SizableBorderBottomLeft>true</Style_SizableBorderBottomLeft>
 		<Escapable>false</Escapable>
 		<Style_ClientMovable>true</Style_ClientMovable>
 			<Pieces>TileLayoutBox:SDBW_Numbers</Pieces>
