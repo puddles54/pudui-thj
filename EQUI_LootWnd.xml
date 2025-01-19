@@ -645,9 +645,9 @@
 		<ScreenID>LootInvWnd</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<LeftAnchorOffset>12</LeftAnchorOffset>
 		<TopAnchorOffset>20</TopAnchorOffset>
-		<RightAnchorOffset>0</RightAnchorOffset>
+		<RightAnchorOffset>12</RightAnchorOffset>
 		<BottomAnchorOffset>192</BottomAnchorOffset>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 		<BottomAnchorToTop>true</BottomAnchorToTop>
