@@ -4,36 +4,36 @@
 	<StaticAnimation item="Inv_Seperator0">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>60</Y>
+			<X>2</X>
+			<Y>110</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>4</CY>
+			<CX>171</CX>
+			<CY>2</CY>
 		</Size>
 		<Animation>A_DividerMiddle</Animation>
 	</StaticAnimation>
 	<StaticAnimation item="Inv_Seperator1">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>106</Y>
+			<X>2</X>
+			<Y>155</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>4</CY>
+			<CX>171</CX>
+			<CY>2</CY>
 		</Size>
 		<Animation>A_DividerMiddle</Animation>
 	</StaticAnimation>
 	<StaticAnimation item="Inv_Seperator2">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>0</X>
-			<Y>195</Y>
+			<X>2</X>
+			<Y>256</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>4</CY>
+			<CX>171</CX>
+			<CY>2</CY>
 		</Size>
 		<Animation>A_DividerMiddle</Animation>
 	</StaticAnimation>
@@ -41,49 +41,50 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>0</X>
-			<Y>239</Y>
+			<Y>357</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>4</CY>
+			<CX>171</CX>
+			<CY>2</CY>
 		</Size>
 		<Animation>A_DividerMiddle</Animation>
 	</StaticAnimation>
 	<StaticAnimation item="Inv_Seperator4">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>-1</X>
-			<Y>332</Y>
+			<X>87</X>
+			<Y>157</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>4</CY>
+			<CX>1</CX>
+			<CY>99</CY>
 		</Size>
 		<Animation>A_DividerMiddle</Animation>
 	</StaticAnimation>
 	<StaticAnimation item="Inv_Seperator5">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>0</X>
-			<Y>400</Y>
+			<X>120</X>
+			<Y>258</Y>
 		</Location>
 		<Size>
-			<CX>120</CX>
-			<CY>4</CY>
+			<CX>1</CX>
+			<CY>99</CY>
 		</Size>
 		<Animation>A_DividerMiddle</Animation>
 	</StaticAnimation>
 	<Button item="IW_ReclaimButton">
 		<ScreenID>IW_ReclaimButton</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>300</X>
-			<Y>92</Y>
-		</Location>
-		<Size>
-			<CX>85</CX>
-			<CY>25</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<LeftAnchorOffset>174</LeftAnchorOffset>
+		<TopAnchorOffset>50</TopAnchorOffset>
+		<RightAnchorOffset>4</RightAnchorOffset>
+		<BottomAnchorOffset>30</BottomAnchorOffset>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -94,15 +95,15 @@
 			<G>255</G>
 			<B>255</B>
 		</TextColor>
-		<Template>BDT_Normal</Template>
+		<Template>BDT_BigNormal</Template>
 	</Button>
 	<!-- IS_CHARM		1 -->
 	<InvSlot item="InvSlot0">
 		<ScreenID>InvSlot0</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>210</X>
-			<Y>228</Y>
+			<X>279</X>
+			<Y>254</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -120,8 +121,8 @@
 		<ScreenID>InvSlot1</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>12</Y>
+			<X>189</X>
+			<Y>29</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -139,8 +140,8 @@
 		<ScreenID>InvSlot2</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>166</X>
-			<Y>12</Y>
+			<X>234</X>
+			<Y>29</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -158,8 +159,8 @@
 		<ScreenID>InvSlot3</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>210</X>
-			<Y>12</Y>
+			<X>279</X>
+			<Y>29</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -177,8 +178,8 @@
 		<ScreenID>InvSlot4</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>12</Y>
+			<X>324</X>
+			<Y>29</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -196,8 +197,8 @@
 		<ScreenID>InvSlot5</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>55</Y>
+			<X>324</X>
+			<Y>74</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -215,8 +216,8 @@
 		<ScreenID>InvSlot6</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>141</Y>
+			<X>324</X>
+			<Y>164</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -234,8 +235,8 @@
 		<ScreenID>InvSlot7</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>99</Y>
+			<X>189</X>
+			<Y>119</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -253,8 +254,8 @@
 		<ScreenID>InvSlot8</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>98</Y>
+			<X>324</X>
+			<Y>119</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -272,8 +273,8 @@
 		<ScreenID>InvSlot9</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>185</Y>
+			<X>189</X>
+			<Y>209</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -291,8 +292,8 @@
 		<ScreenID>InvSlot10</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>185</Y>
+			<X>324</X>
+			<Y>209</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -310,8 +311,8 @@
 		<ScreenID>InvSlot11</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>210</X>
-			<Y>316</Y>
+			<X>279</X>
+			<Y>299</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -329,8 +330,8 @@
 		<ScreenID>InvSlot12</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>166</X>
-			<Y>228</Y>
+			<X>234</X>
+			<Y>254</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -348,8 +349,8 @@
 		<ScreenID>InvSlot13</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>316</Y>
+			<X>189</X>
+			<Y>299</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -367,8 +368,8 @@
 		<ScreenID>InvSlot14</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>166</X>
-			<Y>316</Y>
+			<X>234</X>
+			<Y>299</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -386,8 +387,8 @@
 		<ScreenID>InvSlot15</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>166</X>
-			<Y>272</Y>
+			<X>234</X>
+			<Y>209</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -405,8 +406,8 @@
 		<ScreenID>InvSlot16</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>210</X>
-			<Y>272</Y>
+			<X>279</X>
+			<Y>209</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -424,8 +425,8 @@
 		<ScreenID>InvSlot17</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>55</Y>
+			<X>189</X>
+			<Y>74</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -444,8 +445,8 @@
 
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>228</Y>
+			<X>189</X>
+			<Y>254</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -463,8 +464,8 @@
 		<ScreenID>InvSlot19</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>228</Y>
+			<X>324</X>
+			<Y>254</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -482,8 +483,8 @@
 		<ScreenID>InvSlot20</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>123</X>
-			<Y>142</Y>
+			<X>189</X>
+			<Y>164</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -501,8 +502,8 @@
 		<ScreenID>InvSlot21</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>272</Y>
+			<X>249</X>
+			<Y>366</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -519,8 +520,8 @@
 		<ScreenID>InvSlot22</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>253</X>
-			<Y>316</Y>
+			<X>324</X>
+			<Y>299</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -538,64 +539,64 @@
 		<ScreenID>InvSlot23</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>42</CX>
-			<CY>42</CY>
+			<CX>40</CX>
+			<CY>40</CY>
 		</Size>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 23</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot24">
 		<ScreenID>InvSlot24</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 24</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot25">
 		<ScreenID>InvSlot25</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 25</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot26">
 		<ScreenID>InvSlot26</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 26</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot27">
 		<ScreenID>InvSlot27</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 27</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot28">
 		<ScreenID>InvSlot28</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 28</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot29">
 		<ScreenID>InvSlot29</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 29</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot30">
 		<ScreenID>InvSlot30</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 30</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot31">
 		<ScreenID>InvSlot31</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 31</EQType>
 	</InvSlot>
 	<InvSlot item="InvSlot32">
 		<ScreenID>InvSlot32</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
+		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 32</EQType>
 	</InvSlot>	
 	<Label item="IW_CharTitle">
@@ -625,8 +626,8 @@
 		<EQType>1</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>150</X>
-			<Y>379</Y>
+			<X>6</X>
+			<Y>2</Y>
 		</Location>
 		<Size>
 			<CX>120</CX>
@@ -639,7 +640,7 @@
 			<B>255</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>true</AlignCenter>
+		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
 	<Label item="IW_LastName">
@@ -647,8 +648,8 @@
 		<EQType>73</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>150</X>
-			<Y>393</Y>
+			<X>6</X>
+			<Y>17</Y>
 		</Location>
 		<Size>
 			<CX>120</CX>
@@ -661,7 +662,7 @@
 			<B>255</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>true</AlignCenter>
+		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
 	<Label item="IW_Level">
@@ -669,8 +670,8 @@
 		<EQType>2</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>40</X>
-			<Y>2</Y>
+			<X>42</X>
+			<Y>32</Y>
 		</Location>
 		<Size>
 			<CX>15</CX>
@@ -690,8 +691,8 @@
 		<ScreenID>LevelClassLabel2</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>2</Y>
+			<X>6</X>
+			<Y>32</Y>
 		</Location>
 		<Size>
 			<CX>100</CX>
@@ -711,8 +712,8 @@
 		<EQType>3</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>16</Y>
+			<X>44</X>
+			<Y>47</Y>
 		</Location>
 		<Size>
 			<CX>90</CX>
@@ -732,8 +733,8 @@
 		<EQType>6666</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>16</Y>
+			<X>6</X>
+			<Y>47</Y>
 		</Location>
 		<Size>
 			<CX>30</CX>
@@ -775,8 +776,8 @@
 		<EQType>4</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>300</X>
-			<Y>05</Y>
+			<X>6</X>
+			<Y>92</Y>
 		</Location>
 		<Size>
 			<CX>112</CX>
@@ -792,12 +793,13 @@
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
+	
 	<Label item="IW_HP">
 		<ScreenID>HPLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>64</Y>
+			<X>6</X>
+			<Y>112</Y>
 		</Location>
 		<Size>
 			<CX>20</CX>
@@ -817,8 +819,8 @@
 		<EQType>17</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>21</X>
-			<Y>64</Y>
+			<X>35</X>
+			<Y>112</Y>
 		</Location>
 		<Size>
 			<CX>47</CX>
@@ -836,14 +838,14 @@
 	<Label item="IW_HPDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>71</X>
-			<Y>64</Y>
+			<X>85</X>
+			<Y>111</Y>
 		</Location>
 		<Size>
 			<CX>8</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -855,8 +857,8 @@
 		<EQType>18</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>76</X>
-			<Y>64</Y>
+			<X>91</X>
+			<Y>112</Y>
 		</Location>
 		<Size>
 			<CX>47</CX>
@@ -874,8 +876,8 @@
 		<ScreenID>MANALabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>78</Y>
+			<X>6</X>
+			<Y>126</Y>
 		</Location>
 		<Size>
 			<CX>20</CX>
@@ -897,8 +899,8 @@
 		<EQType>124</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>21</X>
-			<Y>78</Y>
+			<X>35</X>
+			<Y>126</Y>
 		</Location>
 		<Size>
 			<CX>47</CX>
@@ -916,14 +918,14 @@
 	<Label item="IW_MANADivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>71</X>
-			<Y>78</Y>
+			<X>85</X>
+			<Y>125</Y>
 		</Location>
 		<Size>
 			<CX>8</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -935,8 +937,8 @@
 		<EQType>125</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>76</X>
-			<Y>78</Y>
+			<X>91</X>
+			<Y>126</Y>
 		</Location>
 		<Size>
 			<CX>47</CX>
@@ -954,8 +956,8 @@
 		<ScreenID>ENDRLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>92</Y>
+			<X>6</X>
+			<Y>140</Y>
 		</Location>
 		<Size>
 			<CX>20</CX>
@@ -977,8 +979,8 @@
 		<EQType>126</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>21</X>
-			<Y>92</Y>
+			<X>35</X>
+			<Y>140</Y>
 		</Location>
 		<Size>
 			<CX>47</CX>
@@ -996,14 +998,14 @@
 	<Label item="IW_ENDRDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>71</X>
-			<Y>92</Y>
+			<X>85</X>
+			<Y>139</Y>
 		</Location>
 		<Size>
 			<CX>8</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1015,8 +1017,8 @@
 		<EQType>127</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>76</X>
-			<Y>92</Y>
+			<X>91</X>
+			<Y>140</Y>
 		</Location>
 		<Size>
 			<CX>47</CX>
@@ -1034,8 +1036,8 @@
 		<ScreenID>ACLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>110</Y>
+			<X>6</X>
+			<Y>157</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -1057,8 +1059,8 @@
 		<EQType>22</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>110</Y>
+			<X>47</X>
+			<Y>157</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -1078,8 +1080,8 @@
 		<ScreenID>ACLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>124</Y>
+			<X>6</X>
+			<Y>171</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -1101,8 +1103,8 @@
 		<EQType>6668</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>124</Y>
+			<X>47</X>
+			<Y>171</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -1122,8 +1124,8 @@
 		<ScreenID>ACLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>138</Y>
+			<X>6</X>
+			<Y>185</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -1145,8 +1147,8 @@
 		<EQType>6667</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>138</Y>
+			<X>47</X>
+			<Y>185</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -1166,8 +1168,8 @@
 		<ScreenID>ATKLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>152</Y>
+			<X>6</X>
+			<Y>199</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -1189,8 +1191,8 @@
 		<EQType>23</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>152</Y>
+			<X>47</X>
+			<Y>199</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -1206,12 +1208,54 @@
 		<AlignCenter>true</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
+	<Label item="IW_Haste">
+		<ScreenID>ATKLabel</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>213</Y>
+		</Location>
+		<Size>
+			<CX>64</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>HASTE</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>false</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<TooltipReference>Shows the speed at which you attack - the base is 100%</TooltipReference>
+	</Label>
+	<Label item="IW_CurrentHaste">
+		<EQType>211</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>47</X>
+			<Y>213</Y>
+		</Location>
+		<Size>
+			<CX>80</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+	</Label>
 	<Label item="IW_SpellDMG">
 		<ScreenID>ATKLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>166</Y>
+			<X>6</X>
+			<Y>227</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -1233,8 +1277,8 @@
 		<EQType>226</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>166</Y>
+			<X>47</X>
+			<Y>227</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -1254,8 +1298,8 @@
 		<ScreenID>ATKLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>180</Y>
+			<X>6</X>
+			<Y>241</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -1277,8 +1321,8 @@
 		<EQType>225</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>180</Y>
+			<X>47</X>
+			<Y>241</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -1357,8 +1401,8 @@
 		<ScreenID>STRLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>242</Y>
+			<X>6</X>
+			<Y>258</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -1380,11 +1424,11 @@
 		<EQType>5</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>242</Y>
+			<X>58</X>
+			<Y>258</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -1400,14 +1444,14 @@
 	<Label item="IW_StrengthDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>242</Y>
+			<X>85</X>
+			<Y>257</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1421,11 +1465,11 @@
 		<EQType>264</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>242</Y>
+			<X>91</X>
+			<Y>258</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1442,8 +1486,8 @@
 	<Label item="IW_STRPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>242</Y>
+			<X>138</X>
+			<Y>257</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -1456,19 +1500,18 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases Endurance and Endurance Regeneration.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicSTR">
 		<EQType>251</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>242</Y>
+			<X>144</X>
+			<Y>258</Y>
 		</Location>
 		<Size>
-			<CX>23</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1478,16 +1521,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases hard Armor Class (bypasses soft cap), and minimum melee damage.</TooltipReference>
 	</Label>
 	<Label item="IW_STA">
 		<ScreenID>STALabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>255</Y>
+			<X>6</X>
+			<Y>272</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -1509,11 +1551,11 @@
 		<EQType>6</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>255</Y>
+			<X>58</X>
+			<Y>272</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -1529,14 +1571,14 @@
 	<Label item="IW_StaminaDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>255</Y>
+			<X>85</X>
+			<Y>271</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1550,11 +1592,11 @@
 		<EQType>265</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>255</Y>
+			<X>91</X>
+			<Y>272</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1571,8 +1613,8 @@
 	<Label item="IW_STAPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>255</Y>
+			<X>138</X>
+			<Y>271</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -1585,19 +1627,18 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases Hit Point and Endurance, and regeneration.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicSTA">
 		<EQType>252</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>255</Y>
+			<X>144</X>
+			<Y>272</Y>
 		</Location>
 		<Size>
-			<CX>23</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1607,16 +1648,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases Hit Point and Endurance, and regeneration.</TooltipReference>
 	</Label>	
 	<Label item="IW_AGI">
 		<ScreenID>AGILabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>268</Y>
+			<X>6</X>
+			<Y>286</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -1638,11 +1678,11 @@
 		<EQType>8</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>268</Y>
+			<X>58</X>
+			<Y>286</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -1658,14 +1698,14 @@
 	<Label item="IW_AgilityDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>268</Y>
+			<X>85</X>
+			<Y>285</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1679,11 +1719,11 @@
 		<EQType>267</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>268</Y>
+			<X>91</X>
+			<Y>286</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1700,8 +1740,8 @@
 	<Label item="IW_AGIPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>268</Y>
+			<X>138</X>
+			<Y>285</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -1714,19 +1754,18 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases Endurance and Endurance Regeneration.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicAGI">
 		<EQType>254</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>268</Y>
+			<X>144</X>
+			<Y>286</Y>
 		</Location>
 		<Size>
-			<CX>23</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1736,16 +1775,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases Avoidance, chance to Dodge.</TooltipReference>
 	</Label>
 	<Label item="IW_DEX">
 		<ScreenID>DEXLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>281</Y>
+			<X>6</X>
+			<Y>300</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -1767,11 +1805,11 @@
 		<EQType>7</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>281</Y>
+			<X>58</X>
+			<Y>300</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -1787,14 +1825,14 @@
 	<Label item="IW_DexterityDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>281</Y>
+			<X>85</X>
+			<Y>299</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1808,11 +1846,11 @@
 		<EQType>266</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>281</Y>
+			<X>91</X>
+			<Y>300</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1829,8 +1867,8 @@
 	<Label item="IW_DEXPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>281</Y>
+			<X>138</X>
+			<Y>299</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -1843,19 +1881,18 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases Endurance and Endurance Regeneration.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicDEX">
 		<EQType>253</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>281</Y>
+			<X>144</X>
+			<Y>300</Y>
 		</Location>
 		<Size>
-			<CX>23</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1865,16 +1902,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases chance to Assassinate, Headshot, Riposte, Parry, and Block. Increases minimum Archery and Throwing damage.</TooltipReference>
 	</Label>
 	<Label item="IW_WIS">
 		<ScreenID>WISLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>294</Y>
+			<X>6</X>
+			<Y>314</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -1896,11 +1932,11 @@
 		<EQType>9</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>294</Y>
+			<X>58</X>
+			<Y>314</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -1916,14 +1952,14 @@
 	<Label item="IW_WisdomDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>294</Y>
+			<X>85</X>
+			<Y>313</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1937,11 +1973,11 @@
 		<EQType>268</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>294</Y>
+			<X>91</X>
+			<Y>314</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -1958,8 +1994,8 @@
 	<Label item="IW_WISPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>294</Y>
+			<X>138</X>
+			<Y>313</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -1972,16 +2008,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases Mana and Mana Regeneration.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicWIS">
 		<EQType>255</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>294</Y>
+			<X>147</X>
+			<Y>314</Y>
 		</Location>
 		<Size>
 			<CX>23</CX>
@@ -1994,16 +2029,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases detrimental spell value by 1% for every 100 points.</TooltipReference>
 	</Label>
 	<Label item="IW_INT">
 		<ScreenID>INTLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>2</X>
-			<Y>307</Y>
+			<X>6</X>
+			<Y>328</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -2025,11 +2059,11 @@
 		<EQType>10</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>307</Y>
+			<X>58</X>
+			<Y>328</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -2045,14 +2079,14 @@
 	<Label item="IW_IntelligenceDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>307</Y>
+			<X>85</X>
+			<Y>327</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -2066,11 +2100,11 @@
 		<EQType>269</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>307</Y>
+			<X>91</X>
+			<Y>328</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -2087,8 +2121,8 @@
 	<Label item="IW_INTPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>307</Y>
+			<X>138</X>
+			<Y>327</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -2101,19 +2135,18 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases Mana and Mana Regeneration.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicINT">
 		<EQType>256</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>307</Y>
+			<X>144</X>
+			<Y>328</Y>
 		</Location>
 		<Size>
-			<CX>23</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -2123,16 +2156,15 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases detrimental spell value by 1% for every 100 points.</TooltipReference>
 	</Label>
 	<Label item="IW_CHA">
 		<ScreenID>CHALabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>320</Y>
+			<X>6</X>
+			<Y>342</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -2154,11 +2186,11 @@
 		<EQType>11</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>30</X>
-			<Y>320</Y>
+			<X>58</X>
+			<Y>342</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>255</Text>
@@ -2174,14 +2206,14 @@
 	<Label item="IW_CharismaDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>55</X>
-			<Y>320</Y>
+			<X>85</X>
+			<Y>341</Y>
 		</Location>
 		<Size>
 			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>/</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -2195,11 +2227,11 @@
 		<EQType>270</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>62</X>
-			<Y>320</Y>
+			<X>91</X>
+			<Y>342</Y>
 		</Location>
 		<Size>
-			<CX>25</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -2216,8 +2248,8 @@
 	<Label item="IW_CHAPlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>87</X>
-			<Y>320</Y>
+			<X>138</X>
+			<Y>341</Y>
 		</Location>
 		<Size>
 			<CX>10</CX>
@@ -2230,19 +2262,18 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Decreases the resist modifier on spells you cast, and affects your faction standing as well as gains and losses.</TooltipReference>
 	</Label>
 	<Label item="IW_HeroicCHA">
 		<EQType>257</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>94</X>
-			<Y>320</Y>
+			<X>144</X>
+			<Y>342</Y>
 		</Location>
 		<Size>
-			<CX>23</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
 		<Text>0</Text>
@@ -2252,16 +2283,390 @@
 			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Decreases the resist modifier on spells you cast, and affects your faction standing as well as gains and losses.</TooltipReference>
+	</Label>
+	<Label item="IW_Magic">
+		<ScreenID>MagicLabel</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>359</Y>
+		</Location>
+		<Size>
+			<CX>64</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>MAGIC</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>false</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<TooltipReference>Resists magic-based damage spells</TooltipReference>
+	</Label>
+	<Label item="IW_MagicNumber">
+		<ScreenID>MagicNumberLabel</ScreenID>
+		<EQType>16</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>58</X>
+			<Y>359</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>255</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+	</Label>
+	<Label item="IW_MagicDivider">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>85</X>
+			<Y>358</Y>
+		</Location>
+		<Size>
+			<CX>5</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>|</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+	<Label item="IW_MaxMagic">
+		<EQType>275</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>91</X>
+			<Y>359</Y>
+		</Location>
+		<Size>
+			<CX>35</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
 		<AlignLeft>true</AlignLeft>
+	</Label>
+	<Label item="IW_MagicPlus">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>138</X>
+			<Y>358</Y>
+		</Location>
+		<Size>
+			<CX>10</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>+</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases maximum Magic Resistance.</TooltipReference>
+	</Label>
+	<Label item="IW_HeroicMagic">
+		<EQType>262</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>144</X>
+			<Y>359</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases maximum Magic Resistance.</TooltipReference>
+	</Label>
+	<Label item="IW_Fire">
+		<ScreenID>FireLabel</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>373</Y>
+		</Location>
+		<Size>
+			<CX>64</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>FIRE</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>false</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<TooltipReference>Resists fire-based damage spells</TooltipReference>
+	</Label>
+	<Label item="IW_FireNumber">
+		<ScreenID>FireNumberLabel</ScreenID>
+		<EQType>14</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>58</X>
+			<Y>373</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>255</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+	</Label>
+	<Label item="IW_FireDivider">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>85</X>
+			<Y>372</Y>
+		</Location>
+		<Size>
+			<CX>5</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>|</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+	<Label item="IW_MaxFire">
+		<EQType>273</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>91</X>
+			<Y>373</Y>
+		</Location>
+		<Size>
+			<CX>35</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>false</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<AlignLeft>true</AlignLeft>
+	</Label>
+	<Label item="IW_FirePlus">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>138</X>
+			<Y>372</Y>
+		</Location>
+		<Size>
+			<CX>10</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>+</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases maximum Fire Resistance.</TooltipReference>
+	</Label>
+	<Label item="IW_HeroicFire">
+		<EQType>260</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>144</X>
+			<Y>373</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases maximum Fire Resistance.</TooltipReference>
+	</Label>
+	<Label item="IW_Cold">
+		<ScreenID>ColdLabel</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>6</X>
+			<Y>387</Y>
+		</Location>
+		<Size>
+			<CX>64</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>COLD</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>false</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<TooltipReference>Resists cold-based damage spells</TooltipReference>
+	</Label>
+	<Label item="IW_ColdNumber">
+		<ScreenID>ColdNumberLabel</ScreenID>
+		<EQType>15</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>58</X>
+			<Y>387</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>255</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+	</Label>
+	<Label item="IW_ColdDivider">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>85</X>
+			<Y>386</Y>
+		</Location>
+		<Size>
+			<CX>5</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>|</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+	</Label>
+	<Label item="IW_MaxCold">
+		<EQType>274</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>91</X>
+			<Y>387</Y>
+		</Location>
+		<Size>
+			<CX>35</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>false</AlignCenter>
+		<AlignRight>false</AlignRight>
+		<AlignLeft>true</AlignLeft>
+	</Label>
+	<Label item="IW_ColdPlus">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>138</X>
+			<Y>386</Y>
+		</Location>
+		<Size>
+			<CX>10</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>+</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases maximum Cold Resistance.</TooltipReference>
+	</Label>
+	<Label item="IW_HeroicCold">
+		<EQType>261</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>144</X>
+			<Y>387</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases maximum Cold Resistance.</TooltipReference>
 	</Label>
 	<Label item="IW_Poison">
 		<ScreenID>PoisonLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>336</Y>
+			<X>6</X>
+			<Y>401</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -2284,7 +2689,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>65</X>
-			<Y>336</Y>
+			<Y>401</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -2300,41 +2705,37 @@
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
-	<Label item="IW_Magic">
-		<ScreenID>MagicLabel</ScreenID>
+	<Label item="IW_PoisonDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>349</Y>
+			<X>85</X>
+			<Y>400</Y>
 		</Location>
 		<Size>
-			<CX>64</CX>
+			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>MAGIC</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
 			<B>255</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists magic-based damage spells</TooltipReference>
+		<AlignCenter>true</AlignCenter>
 	</Label>
-	<Label item="IW_MagicNumber">
-		<ScreenID>MagicNumberLabel</ScreenID>
-		<EQType>16</EQType>
+	<Label item="IW_MaxPoison">
+		<EQType>271</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>65</X>
-			<Y>349</Y>
+			<X>91</X>
+			<Y>401</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
+			<CX>35</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>255</Text>
+		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -2343,13 +2744,55 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
+		<AlignLeft>true</AlignLeft>
+	</Label>
+	<Label item="IW_PoisonPlus">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>138</X>
+			<Y>400</Y>
+		</Location>
+		<Size>
+			<CX>10</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>+</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases maximum Poison Resistance.</TooltipReference>
+	</Label>
+	<Label item="IW_HeroicPoison">
+		<EQType>258</EQType>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>144</X>
+			<Y>401</Y>
+		</Location>
+		<Size>
+			<CX>26</CX>
+			<CY>14</CY>
+		</Size>
+		<Text>0</Text>
+		<TextColor>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
+		</TextColor>
+		<NoWrap>true</NoWrap>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases maximum Poison Resistance.</TooltipReference>
 	</Label>
 	<Label item="IW_Disease">
 		<ScreenID>DiseaseLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>362</Y>
+			<X>6</X>
+			<Y>415</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -2372,7 +2815,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>65</X>
-			<Y>362</Y>
+			<Y>415</Y>
 		</Location>
 		<Size>
 			<CX>50</CX>
@@ -2388,41 +2831,37 @@
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
-	<Label item="IW_Fire">
-		<ScreenID>FireLabel</ScreenID>
+	<Label item="IW_DiseaseDivider">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>375</Y>
+			<X>85</X>
+			<Y>414</Y>
 		</Location>
 		<Size>
-			<CX>64</CX>
+			<CX>5</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>FIRE</Text>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
 			<B>255</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists fire-based damage spells</TooltipReference>
+		<AlignCenter>true</AlignCenter>
 	</Label>
-	<Label item="IW_FireNumber">
-		<ScreenID>FireNumberLabel</ScreenID>
-		<EQType>14</EQType>
+	<Label item="IW_MaxDisease">
+		<EQType>272</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>65</X>
-			<Y>375</Y>
+			<X>91</X>
+			<Y>415</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
+			<CX>35</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>255</Text>
+		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -2431,50 +2870,48 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
+		<AlignLeft>true</AlignLeft>
 	</Label>
-	<Label item="IW_Cold">
-		<ScreenID>ColdLabel</ScreenID>
+	<Label item="IW_DiseasePlus">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>388</Y>
+			<X>138</X>
+			<Y>414</Y>
 		</Location>
 		<Size>
-			<CX>64</CX>
+			<CX>10</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>COLD</Text>
+		<Text>+</Text>
 		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists cold-based damage spells</TooltipReference>
+		<AlignCenter>true</AlignCenter>
+		<TooltipReference>Increases maximum Disease Resistance.</TooltipReference>
 	</Label>
-	<Label item="IW_ColdNumber">
-		<ScreenID>ColdNumberLabel</ScreenID>
-		<EQType>15</EQType>
+	<Label item="IW_HeroicDisease">
+		<EQType>259</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>65</X>
-			<Y>388</Y>
+			<X>144</X>
+			<Y>415</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
+			<CX>26</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>255</Text>
+		<Text>0</Text>
 		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
+			<R>214</R>
+			<G>178</G>
+			<B>40</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
+		<AlignRight>true</AlignRight>
+		<TooltipReference>Increases maximum Disease Resistance.</TooltipReference>
 	</Label>
 	<Label item="IW_Corruption">
 		<ScreenID>CorruptionLabel</ScreenID>
@@ -2524,12 +2961,13 @@
 		<ScreenID>WeightLabel</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>0</X>
-			<Y>405</Y>
+			<X>4</X>
+			<Y>466</Y>
 		</Location>
+		<Font>8</Font>
 		<Size>
-			<CX>64</CX>
-			<CY>14</CY>
+			<CX>92</CX>
+			<CY>20</CY>
 		</Size>
 		<Text>WEIGHT</Text>
 		<TextColor>
@@ -2538,7 +2976,7 @@
 			<B>255</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
+		<AlignCenter>true</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
 	<Label item="IW_CurrentWeight">
@@ -2546,13 +2984,14 @@
 		<EQType>24</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>46</X>
-			<Y>405</Y>
+			<X>4</X>
+			<Y>486</Y>
 		</Location>
 		<Size>
-			<CX>30</CX>
-			<CY>14</CY>
+			<CX>38</CX>
+			<CY>20</CY>
 		</Size>
+		<Font>8</Font>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2566,34 +3005,36 @@
 	<Label item="IW_WeightNumber">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>76</X>
-			<Y>405</Y>
+			<X>44</X>
+			<Y>485</Y>
 		</Location>
 		<Size>
-			<CX>4</CX>
-			<CY>14</CY>
+			<CX>8</CX>
+			<CY>20</CY>
 		</Size>
-		<Text>/</Text>
+		<Font>8</Font>
+		<Text>|</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
 			<B>255</B>
 		</TextColor>
 		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
+		<AlignCenter>true</AlignCenter>
 		<AlignRight>false</AlignRight>
 	</Label>
 	<Label item="IW_MaxWeight">
 		<EQType>25</EQType>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>81</X>
-			<Y>405</Y>
+			<X>54</X>
+			<Y>486</Y>
 		</Location>
 		<Size>
-			<CX>32</CX>
-			<CY>14</CY>
+			<CX>38</CX>
+			<CY>20</CY>
 		</Size>
+		<Font>8</Font>
 		<Text />
 		<TextColor>
 			<R>255</R>
@@ -2667,14 +3108,15 @@
 	<Button item="IW_GoodPoints">
 		<ScreenID>IW_GoodPoints</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>300</X>
-			<Y>45</Y>
-		</Location>
-		<Size>
-			<CX>85</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<LeftAnchorOffset>174</LeftAnchorOffset>
+		<TopAnchorOffset>26</TopAnchorOffset>
+		<RightAnchorOffset>90</RightAnchorOffset>
+		<BottomAnchorOffset>4</BottomAnchorOffset>
 		<Style_Transparent>false</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<Style_Checkbox>false</Style_Checkbox>
@@ -2701,14 +3143,15 @@
 	<Button item="IW_EvilPoints">
 		<ScreenID>IW_EvilPoints</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>300</X>
-			<Y>70</Y>
-		</Location>
-		<Size>
-			<CX>85</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<LeftAnchorOffset>88</LeftAnchorOffset>
+		<TopAnchorOffset>26</TopAnchorOffset>
+		<RightAnchorOffset>4</RightAnchorOffset>
+		<BottomAnchorOffset>4</BottomAnchorOffset>
 		<Style_Transparent>false</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<Style_Checkbox>false</Style_Checkbox>
@@ -2736,8 +3179,8 @@
 		<ScreenID>IW_Money0</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>300</X>
-			<Y>121</Y>
+			<X>199</X>
+			<Y>462</Y>
 		</Location>
 		<Size>
 			<CX>85</CX>
@@ -2767,8 +3210,8 @@
 		<ScreenID>IW_Money1</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>300</X>
-			<Y>146</Y>
+			<X>285</X>
+			<Y>462</Y>
 		</Location>
 		<Size>
 			<CX>85</CX>
@@ -2798,8 +3241,8 @@
 		<ScreenID>IW_Money2</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>300</X>
-			<Y>171</Y>
+			<X>199</X>
+			<Y>488</Y>
 		</Location>
 		<Size>
 			<CX>85</CX>
@@ -2829,8 +3272,8 @@
 		<ScreenID>IW_Money3</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>300</X>
-			<Y>197</Y>
+			<X>285</X>
+			<Y>488</Y>
 		</Location>
 		<Size>
 			<CX>85</CX>
@@ -2885,11 +3328,11 @@
 		<Font>2</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>1</X>
-			<Y>422</Y>
+			<X>189</X>
+			<Y>4</Y>
 		</Location>
 		<Size>
-			<CX>45</CX>
+			<CX>58</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -2930,27 +3373,35 @@
 	</Button>
 	<Button item="IW_Destroy">
 		<ScreenID>IW_Destroy</ScreenID>
-		<Font>2</Font>
+		<Font>3</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>202</X>
-			<Y>422</Y>
+			<X>106</X>
+			<Y>467</Y>
 		</Location>
 		<Size>
-			<CX>50</CX>
-			<CY>20</CY>
+			<CX>80</CX>
+			<CY>40</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<Style_Checkbox>false</Style_Checkbox>
 		<!--<RadioGroup/>-->
-		<Text>Destroy</Text>
+		<Text></Text>
 		<TextColor>
 			<R>255</R>
-			<G>255</G>
-			<B>255</B>
+			<G>0</G>
+			<B>0</B>
 		</TextColor>
-		<Template>BDT_Normal</Template>
+		<DecalSize>
+			<CX>20</CX>
+			<CY>20</CY>
+		</DecalSize>
+		<DecalOffset>
+			<X>30</X>
+			<Y>10</Y>
+		</DecalOffset>
+		<Template>BDT_pudDestroyItem</Template>
 	</Button>
 	<StaticAnimation item="ClassAnim">
 		<ScreenID>ClassAnim</ScreenID>
@@ -2968,12 +3419,12 @@
 		<ScreenID>IW_CharacterView</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>166</X>
-			<Y>57</Y>
+			<X>234</X>
+			<Y>74</Y>
 		</Location>
 		<Size>
-			<CX>85</CX>
-			<CY>168</CY>
+			<CX>87</CX>
+			<CY>132</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -3016,11 +3467,11 @@
 		<Font>2</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>106</X>
-			<Y>422</Y>
+			<X>249</X>
+			<Y>4</Y>
 		</Location>
 		<Size>
-			<CX>45</CX>
+			<CX>58</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -3040,11 +3491,11 @@
 		<Font>2</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>154</X>
-			<Y>422</Y>
+			<X>309</X>
+			<Y>4</Y>
 		</Location>
 		<Size>
-			<CX>45</CX>
+			<CX>58</CX>
 			<CY>20</CY>
 		</Size>
 		<Style_Transparent>false</Style_Transparent>
@@ -3062,16 +3513,16 @@
 	<TileLayoutBox item="IW_Slots">
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>300</X>
-			<Y>227</Y>
+			<X>373</X>
+			<Y>4</Y>
 		</Location>
 		<Size>
-			<CX>85</CX>
-			<CY>214</CY>
+			<CX>40</CX>
+			<CY>508</CY>
 		</Size>
 		<Style_Transparent>true</Style_Transparent>
-		<Spacing>1</Spacing>
-		<SecondarySpacing>1</SecondarySpacing>
+		<Spacing>12</Spacing>
+		<SecondarySpacing>12</SecondarySpacing>
 		<HorizontalFirst>true</HorizontalFirst>
 		<AnchorToTop>true</AnchorToTop>
 		<AnchorToLeft>true</AnchorToLeft>
@@ -3160,7 +3611,7 @@
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
 		<DrawTemplate>WDT_Def</DrawTemplate>
-		<TabText>Inventory</TabText>
+		<TabText>Stats</TabText>
 		<TabTextColor>
 			<R>255</R>
 			<G>255</G>
@@ -3172,46 +3623,15 @@
 			<B>0</B>
 		</TabTextActiveColor>
 		<Style_Sizable>true</Style_Sizable>
-		<Pieces>InvSlot0</Pieces>
-		<Pieces>InvSlot1</Pieces>
-		<Pieces>InvSlot2</Pieces>
-		<Pieces>InvSlot3</Pieces>
-		<Pieces>InvSlot4</Pieces>
-		<Pieces>InvSlot5</Pieces>
-		<Pieces>InvSlot6</Pieces>
-		<Pieces>InvSlot7</Pieces>
-		<Pieces>InvSlot8</Pieces>
-		<Pieces>InvSlot9</Pieces>
-		<Pieces>InvSlot10</Pieces>
-		<Pieces>InvSlot11</Pieces>
-		<Pieces>InvSlot12</Pieces>
-		<Pieces>InvSlot13</Pieces>
-		<Pieces>InvSlot14</Pieces>
-		<Pieces>InvSlot15</Pieces>
-		<Pieces>InvSlot16</Pieces>
-		<Pieces>InvSlot17</Pieces>
-		<Pieces>InvSlot18</Pieces>
-		<Pieces>InvSlot19</Pieces>
-		<Pieces>InvSlot20</Pieces>
-		<Pieces>InvSlot21</Pieces>
-		<Pieces>InvSlot22</Pieces>
-		<Pieces>TileLayoutBox:IW_Slots</Pieces>
-		<Pieces>IW_Money0</Pieces>
-		<Pieces>IW_Money1</Pieces>
-		<Pieces>IW_Money2</Pieces>
-		<Pieces>IW_Money3</Pieces>
-		<Pieces>IW_Skills</Pieces>
-		<Pieces>IW_AltAdvBtn</Pieces>
-		<Pieces>IW_Destroy</Pieces>
 		<Pieces>IW_Name</Pieces>
 		<Pieces>IW_LastName</Pieces>
-		<Pieces>IW_CharTitle</Pieces>
 		<Pieces>IW_Level</Pieces>
 		<Pieces>IW_LevelLabel</Pieces>
 		<Pieces>IW_Class</Pieces>
 		<Pieces>IW_ClassAbbr</Pieces>
 		<Pieces>IW_Deity</Pieces>
 		<!--<Pieces>IW_DeityLabel</Pieces>-->
+		<Pieces>Inv_Seperator0</Pieces>
 		<Pieces>IW_HP</Pieces>
 		<Pieces>IW_CurrentHP</Pieces>
 		<Pieces>IW_MaxHP</Pieces>
@@ -3224,6 +3644,7 @@
 		<Pieces>IW_CurrentENDR</Pieces>
 		<Pieces>IW_MaxENDR</Pieces>
 		<Pieces>IW_ENDRDivider</Pieces>
+		<Pieces>Inv_Seperator1</Pieces>
 		<Pieces>IW_AC</Pieces>
 		<Pieces>IW_ACNumber</Pieces>
 		<Pieces>IW_MIT</Pieces>
@@ -3232,12 +3653,13 @@
 		<Pieces>IW_AVDNumber</Pieces>
 		<Pieces>IW_ATK</Pieces>
 		<Pieces>IW_ATKNumber</Pieces>
+		<Pieces>IW_Haste</Pieces>
+		<Pieces>IW_CurrentHaste</Pieces>
 		<Pieces>IW_SpellDMG</Pieces>
 		<Pieces>IW_SpellDMGNumber</Pieces>
 		<Pieces>IW_Heal</Pieces>
 		<Pieces>IW_HealNumber</Pieces>
-		<Pieces>IW_NextLevel</Pieces>
-		<Pieces>IW_ExpGauge</Pieces>
+		<Pieces>Inv_Seperator2</Pieces>
 		<Pieces>IW_STR</Pieces>
 		<Pieces>IW_STRNumber</Pieces>
 		<Pieces>IW_StrengthDivider</Pieces>
@@ -3280,34 +3702,37 @@
 		<Pieces>IW_MaxCHA</Pieces>
 		<Pieces>IW_CHAPlus</Pieces>
 		<Pieces>IW_HeroicCHA</Pieces>
-		<Pieces>IW_Poison</Pieces>
-		<Pieces>IW_PoisonNumber</Pieces>
+		<Pieces>Inv_Seperator3</Pieces>
 		<Pieces>IW_Magic</Pieces>
 		<Pieces>IW_MagicNumber</Pieces>
-		<Pieces>IW_Disease</Pieces>
-		<Pieces>IW_DiseaseNumber</Pieces>
+		<Pieces>IW_MagicDivider</Pieces>
+		<Pieces>IW_MaxMagic</Pieces>
+		<Pieces>IW_MagicPlus</Pieces>
+		<Pieces>IW_HeroicMagic</Pieces>
 		<Pieces>IW_Fire</Pieces>
 		<Pieces>IW_FireNumber</Pieces>
+		<Pieces>IW_FireDivider</Pieces>
+		<Pieces>IW_MaxFire</Pieces>
+		<Pieces>IW_FirePlus</Pieces>
+		<Pieces>IW_HeroicFire</Pieces>
 		<Pieces>IW_Cold</Pieces>
 		<Pieces>IW_ColdNumber</Pieces>
-		<Pieces>IW_Weight</Pieces>
-		<Pieces>IW_CurrentWeight</Pieces>
-		<Pieces>IW_WeightNumber</Pieces>
-		<Pieces>IW_MaxWeight</Pieces>
-		<Pieces>IW_AltAdvGauge</Pieces>
-		<Pieces>Screen:IW_CharacterView</Pieces>
-		<Pieces>IW_DoneButton</Pieces>
-		<Pieces>IW_FacePick</Pieces>
-		<Pieces>IW_Tinting</Pieces>
-		<Pieces>IW_GoodPoints</Pieces>
-		<Pieces>IW_EvilPoints</Pieces>
-		<Pieces>IW_ReclaimButton</Pieces>
-		<Pieces>Inv_Seperator0</Pieces>
-		<Pieces>Inv_Seperator1</Pieces>
-		<Pieces>Inv_Seperator2</Pieces>
-		<Pieces>Inv_Seperator3</Pieces>
-		<Pieces>Inv_Seperator4</Pieces>
-		<Pieces>Inv_Seperator5</Pieces>
+		<Pieces>IW_ColdDivider</Pieces>
+		<Pieces>IW_MaxCold</Pieces>
+		<Pieces>IW_ColdPlus</Pieces>
+		<Pieces>IW_HeroicCold</Pieces>
+		<Pieces>IW_Poison</Pieces>
+		<Pieces>IW_PoisonNumber</Pieces>
+		<Pieces>IW_PoisonDivider</Pieces>
+		<Pieces>IW_MaxPoison</Pieces>
+		<Pieces>IW_PoisonPlus</Pieces>
+		<Pieces>IW_HeroicPoison</Pieces>
+		<Pieces>IW_Disease</Pieces>
+		<Pieces>IW_DiseaseNumber</Pieces>
+		<Pieces>IW_DiseaseDivider</Pieces>
+		<Pieces>IW_MaxDisease</Pieces>
+		<Pieces>IW_DiseasePlus</Pieces>
+		<Pieces>IW_HeroicDisease</Pieces>
 		<Location>
 			<X>0</X>
 			<Y>22</Y>
@@ -3317,2116 +3742,6 @@
 			<CY>401</CY>
 		</Size>
 	</Page>
-
-	<Label item="IWS_HP">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>HP</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Hit Points</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentHP">
-		<EQType>17</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>60</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>55</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_HPDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxHP">
-		<EQType>18</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>55</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_HPScreen">
-		<RelativePosition>true</RelativePosition>
-		<Size>
-			<CX>175</CX>
-			<CY>14</CY>
-		</Size>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_HP</Pieces>
-		<Pieces>IWS_CurrentHP</Pieces>
-		<Pieces>IWS_HPDivider</Pieces>
-		<Pieces>IWS_MaxHP</Pieces>
-	</Screen>
-	<Label item="IWS_Mana">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Mana</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Mana</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentMana">
-		<EQType>124</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>60</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>55</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_ManaDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxMana">
-		<EQType>125</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>55</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_ManaScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Mana</Pieces>
-		<Pieces>IWS_CurrentMana</Pieces>
-		<Pieces>IWS_ManaDivider</Pieces>
-		<Pieces>IWS_MaxMana</Pieces>
-	</Screen>
-	<Label item="IWS_Endurance">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Endurance</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Endurance</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentEndurance">
-		<EQType>126</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>60</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>55</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_EnduranceDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxEndurance">
-		<EQType>127</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>55</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_EnduranceScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Endurance</Pieces>
-		<Pieces>IWS_CurrentEndurance</Pieces>
-		<Pieces>IWS_EnduranceDivider</Pieces>
-		<Pieces>IWS_MaxEndurance</Pieces>
-	</Screen>
-	<Label item="IWS_ArmorClass">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Armor Class</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Determines how well you mitigate incoming damage</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentArmorClass">
-		<EQType>22</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>75</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Screen item="IWS_ArmorClassScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_ArmorClass</Pieces>
-		<Pieces>IWS_CurrentArmorClass</Pieces>
-	</Screen>
-	<Label item="IWS_Attack">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Attack</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Adds to your ability to make a successful melee attack</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentAttack">
-		<EQType>23</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>75</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Screen item="IWS_AttackScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Attack</Pieces>
-		<Pieces>IWS_CurrentAttack</Pieces>
-	</Screen>
-	<Label item="IWS_Haste">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Haste</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Shows the speed at which you attack - the base is 100%</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentHaste">
-		<EQType>211</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>65</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_HastePercent">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>145</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>15</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>%</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Screen item="IWS_HasteScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Haste</Pieces>
-		<Pieces>IWS_CurrentHaste</Pieces>
-		<Pieces>IWS_HastePercent</Pieces>
-	</Screen>
-	<Screen item="IWS_StatsSpacerScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-	</Screen>
-	<Label item="IWS_StatsLabel">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Stats</Text>
-		<TextColor>
-			<R>138</R>
-			<G>163</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Screen item="IWS_StatsLabelScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_StatsLabel</Pieces>
-	</Screen>
-	<Label item="IWS_Strength">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Strength</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Determines your encumbrance limit and is a factor in melee damage</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentStrength">
-		<EQType>238</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_StrengthDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxStrength">
-		<EQType>264</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_StrengthPlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicStrength">
-		<EQType>251</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_StrengthScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Strength</Pieces>
-		<Pieces>IWS_CurrentStrength</Pieces>
-		<Pieces>IWS_StrengthDivider</Pieces>
-		<Pieces>IWS_MaxStrength</Pieces>
-		<Pieces>IWS_StrengthPlus</Pieces>
-		<Pieces>IWS_HeroicStrength</Pieces>
-	</Screen>
-	<Label item="IWS_Stamina">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Stamina</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Influences your hit point and endurance totals</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentStamina">
-		<EQType>239</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_StaminaDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxStamina">
-		<EQType>265</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_StaminaPlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicStamina">
-		<EQType>252</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_StaminaScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Stamina</Pieces>
-		<Pieces>IWS_CurrentStamina</Pieces>
-		<Pieces>IWS_StaminaDivider</Pieces>
-		<Pieces>IWS_MaxStamina</Pieces>
-		<Pieces>IWS_StaminaPlus</Pieces>
-		<Pieces>IWS_HeroicStamina</Pieces>
-	</Screen>
-	<Label item="IWS_Intelligence">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Intelligence</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Determines your mana (for some classes) and influences your chance to raise skills</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentIntelligence">
-		<EQType>243</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_IntelligenceDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxIntelligence">
-		<EQType>269</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_IntelligencePlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicIntelligence">
-		<EQType>256</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_IntelligenceScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Intelligence</Pieces>
-		<Pieces>IWS_CurrentIntelligence</Pieces>
-		<Pieces>IWS_IntelligenceDivider</Pieces>
-		<Pieces>IWS_MaxIntelligence</Pieces>
-		<Pieces>IWS_IntelligencePlus</Pieces>
-		<Pieces>IWS_HeroicIntelligence</Pieces>
-	</Screen>
-	<Label item="IWS_Wisdom">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Wisdom</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Determines your mana (for some classes) and influences your chance to raise skills</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentWisdom">
-		<EQType>242</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_WisdomDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxWisdom">
-		<EQType>268</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_WisdomPlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicWisdom">
-		<EQType>255</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_WisdomScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Wisdom</Pieces>
-		<Pieces>IWS_CurrentWisdom</Pieces>
-		<Pieces>IWS_WisdomDivider</Pieces>
-		<Pieces>IWS_MaxWisdom</Pieces>
-		<Pieces>IWS_WisdomPlus</Pieces>
-		<Pieces>IWS_HeroicWisdom</Pieces>
-	</Screen>
-	<Label item="IWS_Agility">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Agility</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Influences your AC and helps you avoid incoming damage</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentAgility">
-		<EQType>241</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_AgilityDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxAgility">
-		<EQType>267</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_AgilityPlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicAgility">
-		<EQType>254</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_AgilityScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Agility</Pieces>
-		<Pieces>IWS_CurrentAgility</Pieces>
-		<Pieces>IWS_AgilityDivider</Pieces>
-		<Pieces>IWS_MaxAgility</Pieces>
-		<Pieces>IWS_AgilityPlus</Pieces>
-		<Pieces>IWS_HeroicAgility</Pieces>
-	</Screen>
-	<Label item="IWS_Dexterity">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Dexterity</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Influences success to make a successful attack, damage done, and chance to skill up</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentDexterity">
-		<EQType>240</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_DexterityDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxDexterity">
-		<EQType>266</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_DexterityPlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicDexterity">
-		<EQType>253</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_DexterityScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Dexterity</Pieces>
-		<Pieces>IWS_CurrentDexterity</Pieces>
-		<Pieces>IWS_DexterityDivider</Pieces>
-		<Pieces>IWS_MaxDexterity</Pieces>
-		<Pieces>IWS_DexterityPlus</Pieces>
-		<Pieces>IWS_HeroicDexterity</Pieces>
-	</Screen>
-	<Label item="IWS_Charisma">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Charisma</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Influences pricing on many vendors and influences success of charm and memorization spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentCharisma">
-		<EQType>244</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>80</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_CharismaDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>115</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxCharisma">
-		<EQType>270</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>120</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_CharismaPlus">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>147</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>10</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>+</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Label item="IWS_HeroicCharisma">
-		<EQType>257</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>152</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>23</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>214</R>
-			<G>178</G>
-			<B>40</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_CharismaScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Charisma</Pieces>
-		<Pieces>IWS_CurrentCharisma</Pieces>
-		<Pieces>IWS_CharismaDivider</Pieces>
-		<Pieces>IWS_MaxCharisma</Pieces>
-		<Pieces>IWS_CharismaPlus</Pieces>
-		<Pieces>IWS_HeroicCharisma</Pieces>
-	</Screen>
-	<Screen item="IWS_ResistsSpacerScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-	</Screen>
-	<Label item="IWS_ResistsLabel">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Resists</Text>
-		<TextColor>
-			<R>138</R>
-			<G>163</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Screen item="IWS_ResistsLabelScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_ResistsLabel</Pieces>
-	</Screen>
-	<Label item="IWS_Magic">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Magic</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists magic-based damage spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentMagic">
-		<EQType>249</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_MagicDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>132</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxMagic">
-		<EQType>275</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>137</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_MagicScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Magic</Pieces>
-		<Pieces>IWS_CurrentMagic</Pieces>
-		<Pieces>IWS_MagicDivider</Pieces>
-		<Pieces>IWS_MaxMagic</Pieces>
-	</Screen>
-	<Label item="IWS_Fire">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Fire</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists fire-based damage spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentFire">
-		<EQType>247</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_FireDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>132</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxFire">
-		<EQType>273</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>137</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_FireScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Fire</Pieces>
-		<Pieces>IWS_CurrentFire</Pieces>
-		<Pieces>IWS_FireDivider</Pieces>
-		<Pieces>IWS_MaxFire</Pieces>
-	</Screen>
-	<Label item="IWS_Cold">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Cold</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists cold-based damage spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentCold">
-		<EQType>248</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_ColdDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>132</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxCold">
-		<EQType>274</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>137</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_ColdScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Cold</Pieces>
-		<Pieces>IWS_CurrentCold</Pieces>
-		<Pieces>IWS_ColdDivider</Pieces>
-		<Pieces>IWS_MaxCold</Pieces>
-	</Screen>
-	<Label item="IWS_Disease">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Disease</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists disease-based damage spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentDisease">
-		<EQType>246</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_DiseaseDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>132</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxDisease">
-		<EQType>272</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>137</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_DiseaseScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Disease</Pieces>
-		<Pieces>IWS_CurrentDisease</Pieces>
-		<Pieces>IWS_DiseaseDivider</Pieces>
-		<Pieces>IWS_MaxDisease</Pieces>
-	</Screen>
-	<Label item="IWS_Poison">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Poison</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists poison-based damage spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentPoison">
-		<EQType>245</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_PoisonDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>132</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxPoison">
-		<EQType>271</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>137</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_PoisonScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Poison</Pieces>
-		<Pieces>IWS_CurrentPoison</Pieces>
-		<Pieces>IWS_PoisonDivider</Pieces>
-		<Pieces>IWS_MaxPoison</Pieces>
-	</Screen>
-	<Label item="IWS_Corruption">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>120</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>Corruption</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists corruption-based damage spells</TooltipReference>
-	</Label>
-	<Label item="IWS_CurrentCorruption">
-		<EQType>250</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>true</AlignRight>
-		<AlignLeft>false</AlignLeft>
-	</Label>
-	<Label item="IWS_CorruptionDivider">
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>132</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>5</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>/</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-	</Label>
-	<Label item="IWS_MaxCorruption">
-		<EQType>276</EQType>
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>137</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>35</CX>
-			<CY>14</CY>
-		</Size>
-		<Text>0</Text>
-		<TextColor>
-			<R>255</R>
-			<G>255</G>
-			<B>255</B>
-		</TextColor>
-		<NoWrap>true</NoWrap>
-		<AlignCenter>false</AlignCenter>
-		<AlignRight>false</AlignRight>
-		<AlignLeft>true</AlignLeft>
-	</Label>
-	<Screen item="IWS_CorruptionScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-		<Pieces>IWS_Corruption</Pieces>
-		<Pieces>IWS_CurrentCorruption</Pieces>
-		<Pieces>IWS_CorruptionDivider</Pieces>
-		<Pieces>IWS_MaxCorruption</Pieces>
-	</Screen>
-	<Screen item="IWS_ModsSpacerScreen">
-		<RelativePosition>true</RelativePosition>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<Style_Sizable>false</Style_Sizable>
-	</Screen>
 	<Label item="IWS_ModsLabel">
 		<RelativePosition>true</RelativePosition>
 		<Location>
@@ -5453,6 +3768,10 @@
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
 		<Style_Sizable>false</Style_Sizable>
+		<Size>
+			<CX>175</CX>
+			<CY>13</CY>
+		</Size>
 		<Pieces>IWS_ModsLabel</Pieces>
 	</Screen>
 	<Label item="IWS_CombatEffects">
@@ -7630,10 +5949,10 @@
 	<TileLayoutBox item="IW_Stats">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>20</LeftAnchorOffset>
-		<RightAnchorOffset>10</RightAnchorOffset>
-		<TopAnchorOffset>10</TopAnchorOffset>
-		<BottomAnchorOffset>5</BottomAnchorOffset>
+		<LeftAnchorOffset>6</LeftAnchorOffset>
+		<RightAnchorOffset>6</RightAnchorOffset>
+		<TopAnchorOffset>6</TopAnchorOffset>
+		<BottomAnchorOffset>6</BottomAnchorOffset>
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 		<Style_Transparent>true</Style_Transparent>
@@ -7643,30 +5962,6 @@
 		<AnchorToTop>true</AnchorToTop>
 		<AnchorToLeft>true</AnchorToLeft>
 		<FirstPieceTemplate>true</FirstPieceTemplate>
-		<Pieces>Screen:IWS_HPScreen</Pieces>
-		<Pieces>Screen:IWS_ManaScreen</Pieces>
-		<Pieces>Screen:IWS_EnduranceScreen</Pieces>
-		<Pieces>Screen:IWS_ArmorClassScreen</Pieces>
-		<Pieces>Screen:IWS_AttackScreen</Pieces>
-		<Pieces>Screen:IWS_HasteScreen</Pieces>
-		<Pieces>Screen:IWS_StatsSpacerScreen</Pieces>
-		<Pieces>Screen:IWS_StatsLabelScreen</Pieces>
-		<Pieces>Screen:IWS_StrengthScreen</Pieces>
-		<Pieces>Screen:IWS_StaminaScreen</Pieces>
-		<Pieces>Screen:IWS_IntelligenceScreen</Pieces>
-		<Pieces>Screen:IWS_WisdomScreen</Pieces>
-		<Pieces>Screen:IWS_AgilityScreen</Pieces>
-		<Pieces>Screen:IWS_DexterityScreen</Pieces>
-		<Pieces>Screen:IWS_CharismaScreen</Pieces>
-		<Pieces>Screen:IWS_ResistsSpacerScreen</Pieces>
-		<Pieces>Screen:IWS_ResistsLabelScreen</Pieces>
-		<Pieces>Screen:IWS_MagicScreen</Pieces>
-		<Pieces>Screen:IWS_FireScreen</Pieces>
-		<Pieces>Screen:IWS_ColdScreen</Pieces>
-		<Pieces>Screen:IWS_DiseaseScreen</Pieces>
-		<Pieces>Screen:IWS_PoisonScreen</Pieces>
-		<Pieces>Screen:IWS_CorruptionScreen</Pieces>
-		<Pieces>Screen:IWS_ModsSpacerScreen</Pieces>
 		<Pieces>Screen:IWS_ModsLabelScreen</Pieces>
 		<Pieces>Screen:IWS_CombatEffectsScreen</Pieces>
 		<Pieces>Screen:IWS_CombatHPRegenScreen</Pieces>
@@ -7704,7 +5999,7 @@
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
 		<DrawTemplate>WDT_Def</DrawTemplate>
-		<TabText>Stats</TabText>
+		<TabText>Mods</TabText>
 		<TabTextColor>
 			<R>255</R>
 			<G>255</G>
@@ -8082,12 +6377,12 @@
 			<Heading></Heading>
 		</Columns>
 		<Columns>
-			<Width>200</Width>
+			<Width>106</Width>
 			<Heading>Name</Heading>
 		</Columns>
 		<Columns>
-			<Width>50</Width>
-			<Heading>Quantity</Heading>
+			<Width>25</Width>
+			<Heading>#</Heading>
 		</Columns>
 	</Listbox>
 	<Button item="IW_AltCurr_DisplayMissingButton">
@@ -8104,7 +6399,7 @@
 		<RightAnchorToLeft>false</RightAnchorToLeft>
 		<Style_Transparent>false</Style_Transparent>
 		<Style_Checkbox>true</Style_Checkbox>
-		<Text>Show currencies that you don't have.</Text>
+		<Text>Show All</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -8123,14 +6418,14 @@
 		<ScreenID>AltCurr_CreateItemButton</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
 		<LeftAnchorOffset>4</LeftAnchorOffset>
-		<TopAnchorOffset>26</TopAnchorOffset>
-		<RightAnchorOffset>124</RightAnchorOffset>
-		<BottomAnchorOffset>4</BottomAnchorOffset>
+		<TopAnchorOffset>6</TopAnchorOffset>
+		<RightAnchorOffset>64</RightAnchorOffset>
+		<BottomAnchorOffset>26</BottomAnchorOffset>
 		<Style_Transparent>false</Style_Transparent>
 		<TooltipReference>Click to create hard currency (items) of the highlighted type.</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
@@ -8146,14 +6441,14 @@
 		<ScreenID>AltCurr_ReclaimButton</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>false</LeftAnchorToLeft>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<LeftAnchorOffset>251</LeftAnchorOffset>
-		<TopAnchorOffset>26</TopAnchorOffset>
-		<RightAnchorOffset>139</RightAnchorOffset>
-		<BottomAnchorOffset>4</BottomAnchorOffset>
+		<LeftAnchorOffset>64</LeftAnchorOffset>
+		<TopAnchorOffset>6</TopAnchorOffset>
+		<RightAnchorOffset>4</RightAnchorOffset>
+		<BottomAnchorOffset>26</BottomAnchorOffset>
 		<Style_Transparent>false</Style_Transparent>
 		<TooltipReference>Click here to reclaim points from items of the highlighted type.</TooltipReference>
 		<Style_Checkbox>false</Style_Checkbox>
@@ -8190,7 +6485,7 @@
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
 		<DrawTemplate>WDT_Def</DrawTemplate>
-		<TabText>Alt. Currency</TabText>
+		<TabText>Curr.</TabText>
 		<TabTextColor>
 			<R>255</R>
 			<G>255</G>
@@ -8202,11 +6497,6 @@
 			<B>0</B>
 		</TabTextActiveColor>
 		<Style_Sizable>true</Style_Sizable>
-		<Pieces>IW_AltCurr_PointList</Pieces>
-		<Pieces>IW_AltCurr_DisplayMissingButton</Pieces>
-		<Pieces>IW_AltCurr_CreateItemButton</Pieces>
-		<Pieces>IW_AltCurr_ReclaimButton</Pieces>
-		<Pieces>IW_AltCurr_MaxStackLabel</Pieces>
 		<Location>
 		<X>0</X>
 		<Y>22</Y>
@@ -8215,6 +6505,14 @@
 			<CX>388</CX>
 			<CY>401</CY>
 		</Size>
+		<Pieces>IW_AltCurr_PointList</Pieces>
+		<Pieces>IW_AltCurr_DisplayMissingButton</Pieces>
+		<Pieces>IW_AltCurr_CreateItemButton</Pieces>
+		<Pieces>IW_AltCurr_ReclaimButton</Pieces>
+		<Pieces>IW_AltCurr_MaxStackLabel</Pieces>
+		<Pieces>IW_GoodPoints</Pieces>
+		<Pieces>IW_EvilPoints</Pieces>
+		<Pieces>IW_ReclaimButton</Pieces>
 	</Page>
 	<TabBox item="IW_Subwindows">
 		<ScreenID>IW_Subwindows</ScreenID>
@@ -8224,6 +6522,7 @@
 		<BottomAnchorToTop>false</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<RightAnchorOffset>232</RightAnchorOffset>
 		<TabBorderTemplate>FT_DefTabBorder</TabBorderTemplate>
 		<PageBorderTemplate>FT_DefPageBorder</PageBorderTemplate>
 		<Pages>Page:IW_InvPage</Pages>
@@ -8232,7 +6531,7 @@
 		<LeftAnchorOffset>1</LeftAnchorOffset>
 		<RightAnchorOffset>0</RightAnchorOffset>
 		<TopAnchorOffset>0</TopAnchorOffset>
-		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<BottomAnchorOffset>55</BottomAnchorOffset>
 	</TabBox>
 
 	<Button item="IW_ConsumeKrono">
@@ -8273,8 +6572,14 @@
 			<Pieces>IWEI_AllOffButton</Pieces>
 			<Pieces>IW_EIPage</Pieces>
 			<Pieces>IW_AltCharProgPage</Pieces>
-			
-
+			<Pieces>IW_NextLevel</Pieces>
+			<Pieces>IW_ExpGauge</Pieces>
+			<Pieces>IW_AltAdvGauge</Pieces>
+			<Pieces>IW_AltAdvBtn</Pieces>
+			<Pieces>IW_DoneButton</Pieces>
+			<Pieces>IW_CharTitle</Pieces>
+			<Pieces>Inv_Seperator4</Pieces>
+			<Pieces>Inv_Seperator5</Pieces>
 	</Screen>
 
 	<Screen item="InventoryWindow">
@@ -8286,7 +6591,7 @@
 		</Location>
 		<Size>
 			<CX>426</CX>
-			<CY>500</CY>
+			<CY>545</CY>
 		</Size>
 		<Text>Inventory</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -8302,5 +6607,42 @@
 		<Style_Sizable>false</Style_Sizable>
 			<Pieces>IW_Subwindows</Pieces>
 			<Pieces>IW_Hidden</Pieces>
+			<Pieces>TileLayoutBox:IW_Slots</Pieces>
+			<Pieces>IW_Money0</Pieces>
+			<Pieces>IW_Money1</Pieces>
+			<Pieces>IW_Money2</Pieces>
+			<Pieces>IW_Money3</Pieces>
+			<Pieces>IW_Weight</Pieces>
+			<Pieces>IW_CurrentWeight</Pieces>
+			<Pieces>IW_WeightNumber</Pieces>
+			<Pieces>IW_MaxWeight</Pieces>
+			<Pieces>IW_Destroy</Pieces>
+			<Pieces>InvSlot0</Pieces>
+			<Pieces>InvSlot1</Pieces>
+			<Pieces>InvSlot2</Pieces>
+			<Pieces>InvSlot3</Pieces>
+			<Pieces>InvSlot4</Pieces>
+			<Pieces>InvSlot5</Pieces>
+			<Pieces>InvSlot6</Pieces>
+			<Pieces>InvSlot7</Pieces>
+			<Pieces>InvSlot8</Pieces>
+			<Pieces>InvSlot9</Pieces>
+			<Pieces>InvSlot10</Pieces>
+			<Pieces>InvSlot11</Pieces>
+			<Pieces>InvSlot12</Pieces>
+			<Pieces>InvSlot13</Pieces>
+			<Pieces>InvSlot14</Pieces>
+			<Pieces>InvSlot15</Pieces>
+			<Pieces>InvSlot16</Pieces>
+			<Pieces>InvSlot17</Pieces>
+			<Pieces>InvSlot18</Pieces>
+			<Pieces>InvSlot19</Pieces>
+			<Pieces>InvSlot20</Pieces>
+			<Pieces>InvSlot21</Pieces>
+			<Pieces>InvSlot22</Pieces>
+			<Pieces>Screen:IW_CharacterView</Pieces>
+			<Pieces>IW_Skills</Pieces>
+			<Pieces>IW_FacePick</Pieces>
+			<Pieces>IW_Tinting</Pieces>
 	</Screen>
 </XML>

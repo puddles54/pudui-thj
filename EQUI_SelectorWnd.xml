@@ -268,100 +268,8 @@
 		<TooltipReference>Storyline</TooltipReference>
 		<Template>BDT_Square</Template>
 	</Button>
+	
 
-	<!-- root inv slots, IS_B1 to IS_B10 -->
-	<InvSlot item="SELW_InvSlot23">
-		<ScreenID>InvSlot23</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Size>
-			<CX>40</CX>
-			<CY>40</CY>
-		</Size>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 23</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot24">
-		<ScreenID>InvSlot24</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 24</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot25">
-		<ScreenID>InvSlot25</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 25</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot26">
-		<ScreenID>InvSlot26</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 26</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot27">
-		<ScreenID>InvSlot27</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 27</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot28">
-		<ScreenID>InvSlot28</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 28</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot29">
-		<ScreenID>InvSlot29</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 29</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot30">
-		<ScreenID>InvSlot30</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 30</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot31">
-		<ScreenID>InvSlot31</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 31</EQType>
-	</InvSlot>
-	<InvSlot item="SELW_InvSlot32">
-		<ScreenID>InvSlot32</ScreenID>
-		<RelativePosition>true</RelativePosition>
-		<Background>A_RecessedBox</Background>
-		<EQType>inventory/Equip 32</EQType>
-	</InvSlot>	
-	<TileLayoutBox item="SELW_Slots">
-		<RelativePosition>true</RelativePosition>
-		<AutoStretch>true</AutoStretch>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
-		<LeftAnchorToLeft>true</LeftAnchorToLeft>
-		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<TopAnchorOffset>1</TopAnchorOffset>
-		<LeftAnchorOffset>1</LeftAnchorOffset>
-		<RightAnchorOffset>1</RightAnchorOffset>
-		<BottomAnchorOffset>1</BottomAnchorOffset>
-		<Style_Transparent>true</Style_Transparent>
-		<Spacing>10</Spacing>
-		<SecondarySpacing>12</SecondarySpacing>
-		<HorizontalFirst>true</HorizontalFirst>
-		<AnchorToTop>true</AnchorToTop>
-		<AnchorToLeft>true</AnchorToLeft>
-		<FirstPieceTemplate>true</FirstPieceTemplate>
-		<Pieces>SELW_InvSlot23</Pieces>
-		<Pieces>SELW_InvSlot24</Pieces>
-		<Pieces>SELW_InvSlot25</Pieces>
-		<Pieces>SELW_InvSlot26</Pieces>
-		<Pieces>SELW_InvSlot27</Pieces>
-		<Pieces>SELW_InvSlot28</Pieces>
-		<Pieces>SELW_InvSlot29</Pieces>
-		<Pieces>SELW_InvSlot30</Pieces>
-		<Pieces>SELW_InvSlot31</Pieces>
-		<Pieces>SELW_InvSlot32</Pieces>
-	</TileLayoutBox>
 	<Screen item="SELW_Hidden">
 		<Location>
 			<X>0</X>
@@ -398,11 +306,11 @@
 			<Y>100</Y>
 		</Location>
 		<Size>
-			<CX>54</CX>
-			<CY>520</CY>
+			<CX>100</CX>
+			<CY>24</CY>
 		</Size>
 		<Text>The Heroes' Journey</Text>
-		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<DrawTemplate>WDT_PudHud</DrawTemplate>
 		<Style_Titlebar>false</Style_Titlebar>
 		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>false</Style_Minimizebox>
@@ -410,7 +318,7 @@
 		<Style_Sizable>false</Style_Sizable>
 		<Escapable>true</Escapable>
 			<Pieces>Screen:SELW_Hidden</Pieces>
-			<Pieces>TileLayoutBox:SELW_Slots</Pieces>
+			
 
 	</Screen>
 </XML>
