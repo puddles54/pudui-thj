@@ -502,8 +502,8 @@
 		<ScreenID>InvSlot21</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>249</X>
-			<Y>366</Y>
+			<X>257</X>
+			<Y>380</Y>
 		</Location>
 		<Size>
 			<CX>42</CX>
@@ -598,7 +598,26 @@
 		<RelativePosition>true</RelativePosition>
 		<Background>A_pudInvBag</Background>
 		<EQType>inventory/Equip 32</EQType>
-	</InvSlot>	
+	</InvSlot>
+	<Label item="IW_PowerSourceLabel">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>253</X>
+			<Y>360</Y>
+		</Location>
+		<Size>
+			<CX>50</CX>
+			<CY>16</CY>
+		</Size>
+		<Text>Upgrade:</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
 	<Label item="IW_CharTitle">
 		<ScreenID>NameLabel</ScreenID>
 		<EQType>74</EQType>
@@ -6644,5 +6663,6 @@
 			<Pieces>IW_Skills</Pieces>
 			<Pieces>IW_FacePick</Pieces>
 			<Pieces>IW_Tinting</Pieces>
+			<Pieces>IW_PowerSourceLabel</Pieces>
 	</Screen>
 </XML>
