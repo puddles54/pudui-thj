@@ -10908,14 +10908,14 @@
 	<Ui2DAnimation item="A_SliderBackground">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>80</X>
-				<Y>10</Y>
+				<X>32</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
 				<CX>2</CX>
-				<CY>12</CY>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -10927,14 +10927,14 @@
 	<Ui2DAnimation item="A_SliderEndCapLeft">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>60</X>
-				<Y>10</Y>
+				<X>27</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
-				<CX>4</CX>
-				<CY>12</CY>
+				<CX>5</CX>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -10946,14 +10946,14 @@
 	<Ui2DAnimation item="A_SliderEndCapRight">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>70</X>
-				<Y>10</Y>
+				<X>34</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
-				<CX>4</CX>
-				<CY>12</CY>
+				<CX>5</CX>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -10965,14 +10965,14 @@
 	<Ui2DAnimation item="A_SliderThumbNormal">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>91</X>
-				<Y>10</Y>
+				<X>40</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
-				<CX>9</CX>
-				<CY>18</CY>
+				<CX>5</CX>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -10984,14 +10984,14 @@
 	<Ui2DAnimation item="A_SliderThumbPressed">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>92</X>
-				<Y>50</Y>
+				<X>46</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
-				<CX>9</CX>
-				<CY>18</CY>
+				<CX>5</CX>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -11003,14 +11003,14 @@
 	<Ui2DAnimation item="A_SliderThumbFlyby">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>91</X>
-				<Y>30</Y>
+				<X>46</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
-				<CX>9</CX>
-				<CY>18</CY>
+				<CX>5</CX>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>
@@ -11041,14 +11041,14 @@
 	<Ui2DAnimation item="A_SliderThumbPressedFlyby">
 		<Cycle>true</Cycle>
 		<Frames>
-			<Texture>window_pieces01.tga</Texture>
+			<Texture>pudui_window_frame.png</Texture>
 			<Location>
-				<X>82</X>
-				<Y>50</Y>
+				<X>46</X>
+				<Y>55</Y>
 			</Location>
 			<Size>
-				<CX>9</CX>
-				<CY>18</CY>
+				<CX>5</CX>
+				<CY>11</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>

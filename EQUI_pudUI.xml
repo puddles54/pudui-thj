@@ -530,7 +530,7 @@
 		<Texture>pudui_buttons.png</Texture>
 		<Location>
 			<X>174</X>
-			<Y>123</Y>
+			<Y>124</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -549,7 +549,7 @@
 		<Texture>pudui_buttons.png</Texture>
 		<Location>
 			<X>174</X>
-			<Y>163</Y>
+			<Y>165</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
