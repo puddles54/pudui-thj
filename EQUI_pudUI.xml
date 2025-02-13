@@ -510,8 +510,8 @@
 	<Frames>
 		<Texture>pudui_buttons.png</Texture>
 		<Location>
-			<X>174</X>
-			<Y>83</Y>
+			<X>175</X>
+			<Y>85</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -529,8 +529,8 @@
 	<Frames>
 		<Texture>pudui_buttons.png</Texture>
 		<Location>
-			<X>174</X>
-			<Y>124</Y>
+			<X>175</X>
+			<Y>126</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>
@@ -548,8 +548,8 @@
 	<Frames>
 		<Texture>pudui_buttons.png</Texture>
 		<Location>
-			<X>174</X>
-			<Y>165</Y>
+			<X>175</X>
+			<Y>167</Y>
 		</Location>
 		<Size>
 			<CX>80</CX>

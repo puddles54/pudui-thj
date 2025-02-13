@@ -1567,7 +1567,7 @@
 			<CY>30</CY>
 		</Size>
 		<Location>
-			<X>206</X>
+			<X>205</X>
 			<Y>58</Y>
 		</Location>
 	</Screen>
@@ -1675,7 +1675,7 @@
 			<CY>30</CY>
 		</Size>
 		<Location>
-			<X>206</X>
+			<X>205</X>
 			<Y>98</Y>
 		</Location>
 			<Pieces>TargetofTarget_HPLabelShadow</Pieces>

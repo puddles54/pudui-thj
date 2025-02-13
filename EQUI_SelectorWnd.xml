@@ -268,7 +268,243 @@
 		<TooltipReference>Storyline</TooltipReference>
 		<Template>BDT_Square</Template>
 	</Button>
-	
+<Gauge item="SELW_EXP">
+	<ScreenID>ExpGauge</ScreenID>
+	<EQType>4</EQType>
+	<GaugeOffsetY>0</GaugeOffsetY>
+	<FillTint>
+		<R>220</R>
+		<G>150</G>
+		<B>0</B>
+	</FillTint>
+	<LinesFillTint>
+		<R>0</R>
+		<G>200</G>
+		<B>255</B>
+	</LinesFillTint>
+	<DrawLinesFill>false</DrawLinesFill>
+	<GaugeDrawTemplate>
+		<Background>A_pudGaugeNormalBackground</Background>
+		<Fill>A_pudGaugeNormalFill</Fill>
+	</GaugeDrawTemplate>
+	<RelativePosition>true</RelativePosition>
+	<Size>
+		<CX>120</CX>
+		<CY>20</CY>
+	</Size>
+	<Location>
+		<X>0</X>
+		<Y>0</Y>
+	</Location>
+</Gauge>
+<Label item="SELW_EXPLabel">
+	<ScreenID>ExpLabel</ScreenID>
+	<EQType>26</EQType>
+	<Font>5</Font>
+	<TextColor>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignCenter>true</AlignCenter>
+	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>-1</TopAnchorOffset>
+</Label>
+<Label item="SELW_EXPLabelShadow">
+	<ScreenID>ExpLabel</ScreenID>
+	<EQType>26</EQType>
+	<Font>5</Font>
+	<TextColor>
+		<R>0</R>
+		<G>0</G>
+		<B>0</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignCenter>true</AlignCenter>
+	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>0</TopAnchorOffset>
+	<LeftAnchorOffset>1</LeftAnchorOffset>
+</Label>
+<Label item="SELW_EXPPercLabel">
+	<Font>5</Font>
+	<Text>XP:</Text>
+	<TextColor>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignLeft>true</AlignLeft>
+	<Size>
+		<CX>24</CX>
+		<CY>20</CY>
+	</Size>
+	<Location>
+		<X>182</X>
+		<Y>3</Y>
+	</Location>
+</Label>	
+<Gauge item="SELW_AAEXP">
+	<ScreenID>AltAdvGauge</ScreenID>
+	<EQType>5</EQType>
+	<RelativePosition>true</RelativePosition>
+	<GaugeDrawTemplate>
+		<Background>A_pudGaugeNormalBackground</Background>
+		<Fill>A_pudGaugeNormalFill</Fill>
+	</GaugeDrawTemplate>
+	<FillTint>
+		<R>220</R>
+		<G>150</G>
+		<B>0</B>
+	</FillTint>
+	<DrawLinesFill>false</DrawLinesFill>
+	<GaugeOffsetY>0</GaugeOffsetY>
+	<Size>
+		<CX>120</CX>
+		<CY>20</CY>
+	</Size>
+	<Location>
+		<X>0</X>
+		<Y>0</Y>
+	</Location>
+</Gauge>
+<Label item="SELW_AAEXPLabel">
+	<ScreenID>AltAdvPct</ScreenID>
+	<EQType>27</EQType>
+	<Font>5</Font>
+	<TextColor>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignCenter>true</AlignCenter>
+	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>-1</TopAnchorOffset>
+</Label>
+<Label item="SELW_AAEXPLabelShadow">
+	<ScreenID>AltAdvPct</ScreenID>
+	<EQType>27</EQType>
+	<Font>5</Font>
+	<TextColor>
+		<R>0</R>
+		<G>0</G>
+		<B>0</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignCenter>true</AlignCenter>
+	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>false</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>false</RightAnchorToLeft>
+	<TopAnchorOffset>0</TopAnchorOffset>
+	<LeftAnchorOffset>1</LeftAnchorOffset>
+</Label>
+<Label item="SELW_AAEXPPercLabel">
+	<Font>5</Font>
+	<Text>AA:</Text>
+	<TextColor>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</TextColor>
+	<AlignCenter>false</AlignCenter>
+	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>true</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>true</RightAnchorToLeft>
+	<TopAnchorOffset>3</TopAnchorOffset>
+	<BottomAnchorOffset>23</BottomAnchorOffset>
+	<LeftAnchorOffset>4</LeftAnchorOffset>
+	<RightAnchorOffset>30</RightAnchorOffset>
+</Label>
+<Label item="SELW_AACount">
+	<EQType>71</EQType>
+	<Font>5</Font>
+	<RelativePosition>true</RelativePosition>
+	<AutoStretch>true</AutoStretch>
+	<TopAnchorToTop>true</TopAnchorToTop>
+	<BottomAnchorToTop>true</BottomAnchorToTop>
+	<LeftAnchorToLeft>true</LeftAnchorToLeft>
+	<RightAnchorToLeft>true</RightAnchorToLeft>
+	<TopAnchorOffset>3</TopAnchorOffset>
+	<BottomAnchorOffset>23</BottomAnchorOffset>
+	<LeftAnchorOffset>152</LeftAnchorOffset>
+	<RightAnchorOffset>182</RightAnchorOffset>
+	<Text>0</Text>
+	<TextColor>
+		<R>220</R>
+		<G>150</G>
+		<B>0</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignCenter>true</AlignCenter>
+</Label>
+<Label item="SELW_LVLCount">
+	<EQType>2</EQType>
+	<Font>5</Font>
+		<Location>
+			<X>327</X>
+			<Y>3</Y>
+		</Location>
+		<Size>
+			<CX>30</CX>
+			<CY>20</CY>
+		</Size>
+	<Text>0</Text>
+	<TextColor>
+		<R>220</R>
+		<G>150</G>
+		<B>0</B>
+	</TextColor>
+	<NoWrap>true</NoWrap>
+	<AlignCenter>true</AlignCenter>
+</Label>
+	<Screen item="SELW_ScreenXP">
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>207</X>
+			<Y>3</Y>
+		</Location>
+		<Size>
+			<CX>120</CX>
+			<CY>20</CY>
+		</Size>
+		<Pieces>SELW_EXP</Pieces>
+		<Pieces>SELW_EXPLabelShadow</Pieces>
+		<Pieces>SELW_EXPLabel</Pieces>
+		
+	</Screen>
+	<Screen item="SELW_ScreenAA">
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>3</TopAnchorOffset>
+		<BottomAnchorOffset>23</BottomAnchorOffset>
+		<LeftAnchorOffset>32</LeftAnchorOffset>
+		<RightAnchorOffset>152</RightAnchorOffset>
+			<Pieces>SELW_AAEXP</Pieces>
+			<Pieces>SELW_AAEXPLabelShadow</Pieces>
+			<Pieces>SELW_AAEXPLabel</Pieces>
+	</Screen>
 
 	<Screen item="SELW_Hidden">
 		<Location>
@@ -306,19 +542,25 @@
 			<Y>100</Y>
 		</Location>
 		<Size>
-			<CX>100</CX>
-			<CY>24</CY>
+			<CX>182</CX>
+			<CY>26</CY>
 		</Size>
-		<Text>The Heroes' Journey</Text>
-		<DrawTemplate>WDT_PudHud</DrawTemplate>
-		<Style_Titlebar>false</Style_Titlebar>
+	<MinVSize>26</MinVSize>
+    <MinHSize>182</MinHSize>
+		<Text></Text>
+		<DrawTemplate>WDT_PudHudInvisBorder</DrawTemplate>
+		<Style_Titlebar>true</Style_Titlebar>
 		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>false</Style_Minimizebox>
 		<Style_Border>true</Style_Border>
-		<Style_Sizable>false</Style_Sizable>
+		<Style_Sizable>true</Style_Sizable>
 		<Escapable>true</Escapable>
 			<Pieces>Screen:SELW_Hidden</Pieces>
-			
-
+			<Pieces>Screen:SELW_ScreenXP</Pieces>
+			<Pieces>Screen:SELW_ScreenAA</Pieces>
+			<Pieces>SELW_EXPPercLabel</Pieces>
+			<Pieces>SELW_AAEXPPercLabel</Pieces>
+			<Pieces>SELW_AACount</Pieces>
+			<Pieces>SELW_LVLCount</Pieces>
 	</Screen>
 </XML>
