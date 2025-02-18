@@ -350,7 +350,7 @@
 	</Size>
 	<Location>
 		<X>182</X>
-		<Y>3</Y>
+		<Y>0</Y>
 	</Location>
 </Label>	
 <Gauge item="SELW_AAEXP">
@@ -442,7 +442,7 @@
 	<BottomAnchorToTop>true</BottomAnchorToTop>
 	<LeftAnchorToLeft>true</LeftAnchorToLeft>
 	<RightAnchorToLeft>true</RightAnchorToLeft>
-	<TopAnchorOffset>3</TopAnchorOffset>
+	<TopAnchorOffset>1</TopAnchorOffset>
 	<BottomAnchorOffset>23</BottomAnchorOffset>
 	<LeftAnchorOffset>152</LeftAnchorOffset>
 	<RightAnchorOffset>182</RightAnchorOffset>
@@ -460,7 +460,7 @@
 	<Font>5</Font>
 		<Location>
 			<X>327</X>
-			<Y>3</Y>
+			<Y>1</Y>
 		</Location>
 		<Size>
 			<CX>30</CX>
@@ -479,7 +479,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>207</X>
-			<Y>3</Y>
+			<Y>2</Y>
 		</Location>
 		<Size>
 			<CX>120</CX>
@@ -497,13 +497,34 @@
 		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>3</TopAnchorOffset>
+		<TopAnchorOffset>2</TopAnchorOffset>
 		<BottomAnchorOffset>23</BottomAnchorOffset>
 		<LeftAnchorOffset>32</LeftAnchorOffset>
 		<RightAnchorOffset>152</RightAnchorOffset>
 			<Pieces>SELW_AAEXP</Pieces>
 			<Pieces>SELW_AAEXPLabelShadow</Pieces>
 			<Pieces>SELW_AAEXPLabel</Pieces>
+	</Screen>
+	<Screen item="SELW_ScreenContent">
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<RightAnchorOffset>0</RightAnchorOffset>
+		<DrawTemplate>WDT_PudHud</DrawTemplate>
+		<Style_Border>true</Style_Border>
+		<Style_Transparent>false</Style_Transparent>
+			<Pieces>Screen:SELW_ScreenXP</Pieces>
+			<Pieces>Screen:SELW_ScreenAA</Pieces>
+			<Pieces>SELW_EXPPercLabel</Pieces>
+			<Pieces>SELW_AAEXPPercLabel</Pieces>
+			<Pieces>SELW_AACount</Pieces>
+			<Pieces>SELW_LVLCount</Pieces>
 	</Screen>
 
 	<Screen item="SELW_Hidden">
@@ -542,13 +563,14 @@
 			<Y>100</Y>
 		</Location>
 		<Size>
-			<CX>182</CX>
+			<CX>360</CX>
 			<CY>26</CY>
 		</Size>
 	<MinVSize>26</MinVSize>
     <MinHSize>182</MinHSize>
 		<Text></Text>
 		<DrawTemplate>WDT_PudHudInvisBorder</DrawTemplate>
+		<Style_Transparent>true</Style_Transparent>
 		<Style_Titlebar>true</Style_Titlebar>
 		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>false</Style_Minimizebox>
@@ -556,11 +578,6 @@
 		<Style_Sizable>true</Style_Sizable>
 		<Escapable>true</Escapable>
 			<Pieces>Screen:SELW_Hidden</Pieces>
-			<Pieces>Screen:SELW_ScreenXP</Pieces>
-			<Pieces>Screen:SELW_ScreenAA</Pieces>
-			<Pieces>SELW_EXPPercLabel</Pieces>
-			<Pieces>SELW_AAEXPPercLabel</Pieces>
-			<Pieces>SELW_AACount</Pieces>
-			<Pieces>SELW_LVLCount</Pieces>
+			<Pieces>Screen:SELW_ScreenContent</Pieces>
 	</Screen>
 </XML>
