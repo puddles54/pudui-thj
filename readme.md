@@ -23,7 +23,10 @@ This is a WIP
 ![Target Window](https://github.com/user-attachments/assets/7b670102-7afe-4fc3-9ea4-1e4a7f32564f)
 
 ### Pet Window
-![Pet Window](https://github.com/user-attachments/assets/01d955b8-cde5-4268-a41c-be952a4877d0)
+
+The pet window uses Hotbar 10 (set a key to open it in options) for the pet HP bars and buttons. Pet buffs are in the pet window. You can arrange these to your preference.
+
+[Need updated preview]
 
 ### Group window
 
