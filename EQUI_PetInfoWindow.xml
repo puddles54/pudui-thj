@@ -166,8 +166,8 @@
 		<ScreenID>PetBuff0</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -179,16 +179,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff1_Button">
 		<ScreenID>PetBuff1</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -200,16 +200,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff2_Button">
 		<ScreenID>PetBuff2</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -221,16 +221,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff3_Button">
 		<ScreenID>PetBuff3</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -242,16 +242,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff4_Button">
 		<ScreenID>PetBuff4</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -263,16 +263,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff5_Button">
 		<ScreenID>PetBuff5</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -284,16 +284,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff6_Button">
 		<ScreenID>PetBuff6</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -305,16 +305,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff7_Button">
 		<ScreenID>PetBuff7</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -326,16 +326,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff8_Button">
 		<ScreenID>PetBuff8</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -347,16 +347,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff9_Button">
 		<ScreenID>PetBuff9</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -368,16 +368,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff10_Button">
 		<ScreenID>PetBuff10</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -389,16 +389,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff11_Button">
 		<ScreenID>PetBuff11</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -410,16 +410,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff12_Button">
 		<ScreenID>PetBuff12</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -431,16 +431,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff13_Button">
 		<ScreenID>PetBuff13</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -452,16 +452,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff14_Button">
 		<ScreenID>PetBuff14</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -473,16 +473,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff15_Button">
 		<ScreenID>PetBuff15</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -494,16 +494,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff16_Button">
 		<ScreenID>PetBuff16</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -515,16 +515,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff17_Button">
 		<ScreenID>PetBuff17</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -536,16 +536,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff18_Button">
 		<ScreenID>PetBuff18</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -557,16 +557,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff19_Button">
 		<ScreenID>PetBuff19</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -578,16 +578,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff20_Button">
 		<ScreenID>PetBuff20</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -599,16 +599,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff21_Button">
 		<ScreenID>PetBuff21</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -620,16 +620,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff22_Button">
 		<ScreenID>PetBuff22</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -641,16 +641,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff23_Button">
 		<ScreenID>PetBuff23</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -662,16 +662,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff24_Button">
 		<ScreenID>PetBuff24</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -683,16 +683,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff25_Button">
 		<ScreenID>PetBuff25</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -704,16 +704,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff26_Button">
 		<ScreenID>PetBuff26</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -725,16 +725,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff27_Button">
 		<ScreenID>PetBuff27</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -746,16 +746,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff28_Button">
 		<ScreenID>PetBuff28</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -767,16 +767,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff29_Button">
 		<ScreenID>PetBuff29</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -788,15 +788,15 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff30_Button">
 		<ScreenID>PetBuff30</ScreenID>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -807,8 +807,8 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 
@@ -816,8 +816,8 @@
 		<ScreenID>PetBuff31</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -829,8 +829,8 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 
@@ -838,8 +838,8 @@
 		<ScreenID>PetBuff32</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -851,16 +851,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff33_Button">
 		<ScreenID>PetBuff33</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -872,16 +872,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff34_Button">
 		<ScreenID>PetBuff34</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -893,16 +893,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff35_Button">
 		<ScreenID>PetBuff35</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -914,16 +914,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff36_Button">
 		<ScreenID>PetBuff36</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -935,16 +935,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff37_Button">
 		<ScreenID>PetBuff37</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -956,16 +956,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff38_Button">
 		<ScreenID>PetBuff38</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -977,16 +977,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff39_Button">
 		<ScreenID>PetBuff39</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -998,16 +998,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff40_Button">
 		<ScreenID>PetBuff40</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1019,16 +1019,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff41_Button">
 		<ScreenID>PetBuff41</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1040,16 +1040,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff42_Button">
 		<ScreenID>PetBuff42</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1061,16 +1061,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff43_Button">
 		<ScreenID>PetBuff43</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1082,16 +1082,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff44_Button">
 		<ScreenID>PetBuff44</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1103,16 +1103,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff45_Button">
 		<ScreenID>PetBuff45</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1124,16 +1124,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff46_Button">
 		<ScreenID>PetBuff46</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1145,16 +1145,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff47_Button">
 		<ScreenID>PetBuff47</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1166,16 +1166,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff48_Button">
 		<ScreenID>PetBuff48</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1187,16 +1187,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff49_Button">
 		<ScreenID>PetBuff49</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1208,16 +1208,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff50_Button">
 		<ScreenID>PetBuff50</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1229,16 +1229,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff51_Button">
 		<ScreenID>PetBuff51</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1250,16 +1250,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff52_Button">
 		<ScreenID>PetBuff52</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1271,16 +1271,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff53_Button">
 		<ScreenID>PetBuff53</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1292,16 +1292,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff54_Button">
 		<ScreenID>PetBuff54</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1313,16 +1313,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff55_Button">
 		<ScreenID>PetBuff55</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1334,16 +1334,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff56_Button">
 		<ScreenID>PetBuff56</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1355,16 +1355,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff57_Button">
 		<ScreenID>PetBuff57</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1376,16 +1376,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff58_Button">
 		<ScreenID>PetBuff58</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1397,16 +1397,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff59_Button">
 		<ScreenID>PetBuff59</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1418,16 +1418,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff60_Button">
 		<ScreenID>PetBuff60</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1439,16 +1439,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff61_Button">
 		<ScreenID>PetBuff61</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1460,16 +1460,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff62_Button">
 		<ScreenID>PetBuff62</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1481,16 +1481,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff63_Button">
 		<ScreenID>PetBuff63</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1502,16 +1502,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff64_Button">
 		<ScreenID>PetBuff64</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1523,16 +1523,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff65_Button">
 		<ScreenID>PetBuff65</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1544,16 +1544,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff66_Button">
 		<ScreenID>PetBuff66</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1565,16 +1565,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff67_Button">
 		<ScreenID>PetBuff67</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1586,16 +1586,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff68_Button">
 		<ScreenID>PetBuff68</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1607,16 +1607,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff69_Button">
 		<ScreenID>PetBuff69</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1628,16 +1628,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff70_Button">
 		<ScreenID>PetBuff70</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1649,16 +1649,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff71_Button">
 		<ScreenID>PetBuff71</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1670,16 +1670,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff72_Button">
 		<ScreenID>PetBuff72</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1691,16 +1691,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff73_Button">
 		<ScreenID>PetBuff73</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1712,16 +1712,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff74_Button">
 		<ScreenID>PetBuff74</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1733,16 +1733,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff75_Button">
 		<ScreenID>PetBuff75</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1754,16 +1754,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff76_Button">
 		<ScreenID>PetBuff76</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1775,16 +1775,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff77_Button">
 		<ScreenID>PetBuff77</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1796,16 +1796,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff78_Button">
 		<ScreenID>PetBuff78</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1817,16 +1817,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff79_Button">
 		<ScreenID>PetBuff79</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1838,16 +1838,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff80_Button">
 		<ScreenID>PetBuff80</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1859,16 +1859,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff81_Button">
 		<ScreenID>PetBuff81</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1880,16 +1880,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff82_Button">
 		<ScreenID>PetBuff82</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1901,16 +1901,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff83_Button">
 		<ScreenID>PetBuff83</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1922,16 +1922,16 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 	<Button item="PIW_PetBuff84_Button">
 		<ScreenID>PetBuff84</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Size>
-			<CX>24</CX>
-			<CY>24</CY>
+			<CX>26</CX>
+			<CY>26</CY>
 		</Size>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -1943,8 +1943,8 @@
 			<Y>2</Y>
 		</DecalOffset>
 		<DecalSize>
-			<CX>20</CX>
-			<CY>20</CY>
+			<CX>22</CX>
+			<CY>22</CY>
 		</DecalSize>
 	</Button>
 
@@ -2027,14 +2027,15 @@
 	<Button item="PIW_Pet0_Button">
 		<ScreenID>Pet0_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>53</Y>
-		</Location>
-		<Size>
-			<CX>46</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<TopAnchorOffset>20</TopAnchorOffset>
+		<RightAnchorOffset>40</RightAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<Style_Checkbox>true</Style_Checkbox>
 		<Text>none</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -2051,14 +2052,15 @@
 	<Button item="PIW_Pet1_Button">
 		<ScreenID>Pet1_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>48</X>
-			<Y>53</Y>
-		</Location>
-		<Size>
-			<CX>46</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<LeftAnchorOffset>41</LeftAnchorOffset>
+		<TopAnchorOffset>20</TopAnchorOffset>
+		<RightAnchorOffset>81</RightAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<Style_Checkbox>true</Style_Checkbox>
 		<Text>none</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -2075,14 +2077,15 @@
 	<Button item="PIW_Pet2_Button">
 		<ScreenID>Pet2_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>85</Y>
-		</Location>
-		<Size>
-			<CX>46</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<LeftAnchorOffset>82</LeftAnchorOffset>
+		<TopAnchorOffset>20</TopAnchorOffset>
+		<RightAnchorOffset>122</RightAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<Style_Checkbox>true</Style_Checkbox>
 		<Text>none</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -2099,14 +2102,15 @@
 	<Button item="PIW_Pet3_Button">
 		<ScreenID>Pet3_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>48</X>
-			<Y>85</Y>
-		</Location>
-		<Size>
-			<CX>46</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<LeftAnchorOffset>123</LeftAnchorOffset>
+		<TopAnchorOffset>20</TopAnchorOffset>
+		<RightAnchorOffset>163</RightAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<Style_Checkbox>true</Style_Checkbox>
 		<Text>none</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -2456,14 +2460,15 @@
 	<Screen item="PIW_BuffWindow">
 		<ScreenID>BuffWindow</ScreenID>
 		<RelativePosition>true</RelativePosition>
-		<Size>
-			<CX>253</CX>
-			<CY>51</CY>
-		</Size>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<RightAnchorOffset>0</RightAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -2486,6 +2491,10 @@
 			<CX>0</CX>
 			<CY>0</CY>
 		</Size>
+		<Pieces>PIW_Pet0_Button</Pieces>
+		<Pieces>PIW_Pet1_Button</Pieces>
+		<Pieces>PIW_Pet2_Button</Pieces>
+		<Pieces>PIW_Pet3_Button</Pieces>
 		<Pieces>PIW_Pet4_Button</Pieces>
 		<Pieces>PIW_Pet5_Button</Pieces>
 		<Pieces>PIW_Pet6_Button</Pieces>
@@ -2496,6 +2505,8 @@
 		<Pieces>PIW_Pet11_Button</Pieces>
 		<Pieces>PIW_Pet12_Button</Pieces>		
 		<Pieces>PIW_Pet13_Button</Pieces>	
+		<Pieces>PIW_PetHPGauge</Pieces>
+		<Pieces>PIW_PetTargetHPGauge</Pieces>
 	</Screen>
 
 	<Screen item="PetInfoWindow">
@@ -2508,8 +2519,8 @@
 			<CX>253</CX>
 			<CY>115</CY>
 		</Size>
-		<MinHSize>112</MinHSize>
-		<MinVSize>30</MinVSize>
+		<MinHSize>26</MinHSize>
+		<MinVSize>26</MinVSize>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -2519,16 +2530,10 @@
 		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>false</Style_Minimizebox>
 		<Style_Border>true</Style_Border>
-		<Style_Sizable>false</Style_Sizable>
+		<Style_Sizable>true</Style_Sizable>
 		<Style_Client_Movable>true</Style_Client_Movable>
 		<Escapable>false</Escapable>
 		<Pieces>Screen:PIW_Hidden</Pieces>
-		<Pieces>PIW_PetHPGauge</Pieces>
-		<Pieces>PIW_PetTargetHPGauge</Pieces>
 		<Pieces>Screen:PIW_BuffWindow</Pieces>
-		<Pieces>PIW_Pet0_Button</Pieces>
-		<Pieces>PIW_Pet1_Button</Pieces>
-		<Pieces>PIW_Pet2_Button</Pieces>
-		<Pieces>PIW_Pet3_Button</Pieces>
 	</Screen>
 </XML>

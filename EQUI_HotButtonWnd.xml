@@ -23,6 +23,27 @@
 			<Highlight>A_pudSpellGemHighlight</Highlight>
 		</SpellGemDrawTemplate>
 	</SpellGem>
+	<SpellGem item="HB_PetSpellGem">
+		<ScreenID>HB_SpellGem</ScreenID>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<SpellIconSizeX>36</SpellIconSizeX>
+		<SpellIconSizeY>36</SpellIconSizeY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
+		<Font>2</Font>
+		<SpellGemDrawTemplate>
+			<Holder>A_pudSpellGemHolder</Holder>
+			<Background>A_pudSpellGemBackground</Background>
+			<Highlight>A_pudSpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+	</SpellGem>
 	<InvSlot item="HB_InvSlot">
 		<ScreenID>HB_InvSlot</ScreenID>
 		<Location>
@@ -32,6 +53,25 @@
 		<Size>
 			<CX>50</CX>
 			<CY>50</CY>
+		</Size>
+		<Font>1</Font>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<Background>A_HotButtonNormal</Background>
+		<EQType>-2</EQType>
+	</InvSlot>
+	<InvSlot item="HB_PetInvSlot">
+		<ScreenID>HB_InvSlot</ScreenID>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
 		</Size>
 		<Font>1</Font>
 		<TextColor>
@@ -426,6 +466,390 @@
 			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
 		</ButtonDrawTemplate>
 	</HotButton>
+	<HotButton item="HB_PetButton1">
+		<ScreenID>HB_Button1</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>1</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton2">
+		<ScreenID>HB_Button2</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>2</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton3">
+		<ScreenID>HB_Button3</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>3</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton4">
+		<ScreenID>HB_Button4</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>4</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton5">
+		<ScreenID>HB_Button5</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>5</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton6">
+		<ScreenID>HB_Button6</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>6</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton7">
+		<ScreenID>HB_Button7</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>7</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton8">
+		<ScreenID>HB_Button8</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>8</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton9">
+		<ScreenID>HB_Button9</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>9</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton10">
+		<ScreenID>HB_Button10</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>10</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton11">
+		<ScreenID>HB_Button11</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>11</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
+	<HotButton item="HB_PetButton12">
+		<ScreenID>HB_Button12</ScreenID>
+		<Font>2</Font>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>38</CX>
+			<CY>38</CY>
+		</Size>
+		<Text>12</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<DecalOffset>
+			<X>2</X>
+			<Y>2</Y>
+		</DecalOffset>
+		<DecalSize>
+			<CX>36</CX>
+			<CY>36</CY>
+		</DecalSize>
+		<SpellGem>HB_PetSpellGem</SpellGem>
+		<InvSlot>HB_PetInvSlot</InvSlot>
+		<ButtonDrawTemplate>
+			<Normal>A_HotButtonNormal</Normal>
+			<Pressed>A_HotButtonPressed</Pressed>
+			<Flyby>A_HotButtonFlyby</Flyby>
+			<Disabled>A_HotButtonDisabled</Disabled>
+			<PressedFlyby>A_HotButtonPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</HotButton>
 	<Screen item="HB_NoSpinnerBarTemplate">
 		<ScreenID>HB_NoSpinnerBarTemplate</ScreenID>
 		<RelativePosition>true</RelativePosition>
@@ -504,6 +928,40 @@
 		<Pieces>HotButton:HB_Button10</Pieces>
 		<Pieces>HotButton:HB_Button11</Pieces>
 		<Pieces>HotButton:HB_Button12</Pieces>
+	</TileLayoutBox>
+	<TileLayoutBox item="HB_PetHotButtonLayout">
+		<ScreenID>HB_HotButtonLayout</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorOffset>59</TopAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<RightAnchorOffset>0</RightAnchorOffset>	
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<Style_Transparent>true</Style_Transparent>
+		<Style_TransparentControl>true</Style_TransparentControl>
+		<Spacing>3</Spacing>
+		<SecondarySpacing>3</SecondarySpacing>
+		<HorizontalFirst>true</HorizontalFirst>
+		<AnchorToTop>true</AnchorToTop>
+		<AnchorToLeft>true</AnchorToLeft>
+		<FirstPieceTemplate>true</FirstPieceTemplate>
+		<SnapToChildren>true</SnapToChildren>
+		<Pieces>HotButton:HB_PetButton1</Pieces>
+		<Pieces>HotButton:HB_PetButton2</Pieces>
+		<Pieces>HotButton:HB_PetButton3</Pieces>
+		<Pieces>HotButton:HB_PetButton4</Pieces>
+		<Pieces>HotButton:HB_PetButton5</Pieces>
+		<Pieces>HotButton:HB_PetButton6</Pieces>
+		<Pieces>HotButton:HB_PetButton7</Pieces>
+		<Pieces>HotButton:HB_PetButton8</Pieces>
+		<Pieces>HotButton:HB_PetButton9</Pieces>
+		<Pieces>HotButton:HB_PetButton10</Pieces>
+		<Pieces>HotButton:HB_PetButton11</Pieces>
+		<Pieces>HotButton:HB_PetButton12</Pieces>
 	</TileLayoutBox>
 	<Button item="HB_PageUpButton">
 		<ScreenID>HB_PageUpButton</ScreenID>
@@ -882,32 +1340,103 @@
 		<Pieces>Screen:HB_VerticalBarTemplate</Pieces>
 		<Pieces>Screen:HB_NoSpinnerBarTemplate</Pieces>
 	</Screen>
+	
+	<Gauge item="HB_PetHPGauge">
+		<ScreenID>PetHPGauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>161</CX>
+			<CY>24</CY>
+		</Size>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Text>No Pet</Text>
+		<TextOffsetY>4</TextOffsetY>
+		<TextOffsetX>8</TextOffsetX>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+			<R>150</R>
+			<G>26</G>
+			<B>36</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>16</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_pudGaugePetBackground</Background>
+			<Fill>A_pudGaugePetFill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
+	<Gauge item="HB_PetTargetHPGauge">
+		<ScreenID>PetTargetHPGauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>30</Y>
+		</Location>
+		<Size>
+			<CX>161</CX>
+			<CY>24</CY>
+		</Size>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Text>No Target</Text>
+		<TextOffsetY>4</TextOffsetY>
+		<TextOffsetX>8</TextOffsetX>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+			<R>150</R>
+			<G>26</G>
+			<B>36</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>41</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_pudGaugePetBackground</Background>
+			<Fill>A_pudGaugePetFill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
 	<Screen item="HotButtonWnd10">
 		<ScreenID />
-		<Layout>HB_LayoutV</Layout>
 		<Font>2</Font>
-		<RelativePosition>false</RelativePosition>
+		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>0</X>
 			<Y>230</Y>
 		</Location>
 		<Size>
-			<CX>525</CX>
-			<CY>53</CY>
+			<CX>165</CX>
+			<CY>142</CY>
 		</Size>
 		<DrawTemplate>WDT_PudHudInvisBorder</DrawTemplate>
 		<Style_Transparent>true</Style_Transparent>
 		<Style_Qmarkbox>true</Style_Qmarkbox>
 		<Style_Closebox>true</Style_Closebox>
 		<Style_Border>true</Style_Border>
-		<Style_Sizable>true</Style_Sizable>
+		<Style_Sizable>false</Style_Sizable>
 		<Style_ClientMovable>true</Style_ClientMovable>
 		<Escapable>false</Escapable>
-		<Pieces>TileLayoutBox:HB_HotButtonLayout</Pieces>
-		<Pieces>Screen:HB_VerticalBarPageButtons</Pieces>
-		<Pieces>Screen:HB_HorizontalBarPageButtons</Pieces>
-		<Pieces>Screen:HB_HorizontalBarTemplate</Pieces>
-		<Pieces>Screen:HB_VerticalBarTemplate</Pieces>
-		<Pieces>Screen:HB_NoSpinnerBarTemplate</Pieces>
+		<Pieces>HB_PetHPGauge</Pieces>
+		<Pieces>HB_PetTargetHPGauge</Pieces>
+		<Pieces>TileLayoutBox:HB_PetHotButtonLayout</Pieces>
 	</Screen>
 </XML>
