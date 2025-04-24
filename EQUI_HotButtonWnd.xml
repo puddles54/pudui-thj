@@ -933,7 +933,7 @@
 		<ScreenID>HB_HotButtonLayout</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorOffset>59</TopAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
 		<BottomAnchorOffset>0</BottomAnchorOffset>
 		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<RightAnchorOffset>0</RightAnchorOffset>	
@@ -1341,80 +1341,6 @@
 		<Pieces>Screen:HB_NoSpinnerBarTemplate</Pieces>
 	</Screen>
 	
-	<Gauge item="HB_PetHPGauge">
-		<ScreenID>PetHPGauge</ScreenID>
-		<!--<Font>3</Font>-->
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>161</CX>
-			<CY>24</CY>
-		</Size>
-		<GaugeOffsetY>0</GaugeOffsetY>
-		<Text>No Pet</Text>
-		<TextOffsetY>4</TextOffsetY>
-		<TextOffsetX>8</TextOffsetX>
-		<TextColor>
-			<R>240</R>
-			<G>240</G>
-			<B>240</B>
-		</TextColor>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<!--<TooltipReference/>-->
-		<FillTint>
-			<R>150</R>
-			<G>26</G>
-			<B>36</B>
-		</FillTint>
-		<DrawLinesFill>false</DrawLinesFill>
-		<EQType>16</EQType>
-		<GaugeDrawTemplate>
-			<Background>A_pudGaugePetBackground</Background>
-			<Fill>A_pudGaugePetFill</Fill>
-		</GaugeDrawTemplate>
-	</Gauge>
-	<Gauge item="HB_PetTargetHPGauge">
-		<ScreenID>PetTargetHPGauge</ScreenID>
-		<!--<Font>3</Font>-->
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>30</Y>
-		</Location>
-		<Size>
-			<CX>161</CX>
-			<CY>24</CY>
-		</Size>
-		<GaugeOffsetY>0</GaugeOffsetY>
-		<Text>No Target</Text>
-		<TextOffsetY>4</TextOffsetY>
-		<TextOffsetX>8</TextOffsetX>
-		<TextColor>
-			<R>240</R>
-			<G>240</G>
-			<B>240</B>
-		</TextColor>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<!--<TooltipReference/>-->
-		<FillTint>
-			<R>150</R>
-			<G>26</G>
-			<B>36</B>
-		</FillTint>
-		<DrawLinesFill>false</DrawLinesFill>
-		<EQType>41</EQType>
-		<GaugeDrawTemplate>
-			<Background>A_pudGaugePetBackground</Background>
-			<Fill>A_pudGaugePetFill</Fill>
-		</GaugeDrawTemplate>
-	</Gauge>
 	<Screen item="HotButtonWnd10">
 		<ScreenID />
 		<Font>2</Font>
@@ -1427,16 +1353,17 @@
 			<CX>165</CX>
 			<CY>142</CY>
 		</Size>
+		<MinHSize>165</MinHSize>
+		<MinVSize>105</MinVSize>
 		<DrawTemplate>WDT_PudHudInvisBorder</DrawTemplate>
 		<Style_Transparent>true</Style_Transparent>
-		<Style_Qmarkbox>true</Style_Qmarkbox>
-		<Style_Closebox>true</Style_Closebox>
+		<Style_Titlebar>true</Style_Titlebar>
+		<Style_Qmarkbox>false</Style_Qmarkbox>
+		<Style_Closebox>false</Style_Closebox>
 		<Style_Border>true</Style_Border>
-		<Style_Sizable>false</Style_Sizable>
+		<Style_Sizable>true</Style_Sizable>
 		<Style_ClientMovable>true</Style_ClientMovable>
 		<Escapable>false</Escapable>
-		<Pieces>HB_PetHPGauge</Pieces>
-		<Pieces>HB_PetTargetHPGauge</Pieces>
 		<Pieces>TileLayoutBox:HB_PetHotButtonLayout</Pieces>
 	</Screen>
 </XML>

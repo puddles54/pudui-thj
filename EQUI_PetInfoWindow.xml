@@ -1986,44 +1986,6 @@
 		</GaugeDrawTemplate>
 	</Gauge>
 
-	<Gauge item="PIW_PetTargetHPGauge">
-		<ScreenID>PetTargetHPGauge</ScreenID>
-		<!--<Font>3</Font>-->
-		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>97</X>
-			<Y>85</Y>
-		</Location>
-		<Size>
-			<CX>152</CX>
-			<CY>24</CY>
-		</Size>
-		<GaugeOffsetY>0</GaugeOffsetY>
-		<Text>No Target</Text>
-		<TextOffsetY>4</TextOffsetY>
-		<TextOffsetX>8</TextOffsetX>
-		<TextColor>
-			<R>240</R>
-			<G>240</G>
-			<B>240</B>
-		</TextColor>
-		<Style_VScroll>false</Style_VScroll>
-		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
-		<!--<TooltipReference/>-->
-		<FillTint>
-			<R>150</R>
-			<G>26</G>
-			<B>36</B>
-		</FillTint>
-		<DrawLinesFill>false</DrawLinesFill>
-		<EQType>41</EQType>
-		<GaugeDrawTemplate>
-			<Background>A_pudGaugePetBackground</Background>
-			<Fill>A_pudGaugePetFill</Fill>
-		</GaugeDrawTemplate>
-	</Gauge>
-
 	<Button item="PIW_Pet0_Button">
 		<ScreenID>Pet0_Button</ScreenID>
 		<RelativePosition>true</RelativePosition>
@@ -2481,7 +2443,43 @@
 		<Style_Sizable>false</Style_Sizable>
 		<Pieces>TileLayoutBox:PIW_Buttons</Pieces>
 	</Screen>
-
+	<Gauge item="PIW_PetTargetHPGauge">
+		<ScreenID>PetTargetHPGauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>0</Y>
+		</Location>
+		<Size>
+			<CX>161</CX>
+			<CY>24</CY>
+		</Size>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Text>No Target</Text>
+		<TextOffsetY>4</TextOffsetY>
+		<TextOffsetX>8</TextOffsetX>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+			<R>150</R>
+			<G>26</G>
+			<B>36</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>41</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_pudGaugePetBackground</Background>
+			<Fill>A_pudGaugePetFill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
 	<Screen item="PIW_Hidden">
 		<Location>
 			<X>0</X>
@@ -2535,5 +2533,6 @@
 		<Escapable>false</Escapable>
 		<Pieces>Screen:PIW_Hidden</Pieces>
 		<Pieces>Screen:PIW_BuffWindow</Pieces>
+		
 	</Screen>
 </XML>
