@@ -24,7 +24,7 @@ This is a WIP
 
 ### Pet Window
 
-The pet window uses Hotbar 10 (set a key to open it in options) for the pet HP bars and buttons. Pet buffs are in the pet window. You can arrange these to your preference.
+The pet window uses the aggro meter window to display health bars, while only buffs remain in the pet window itself. Hotbar 10 is resized to use for pet buttons. You can arrange these to your preference.
 
 [Need updated preview]
 
