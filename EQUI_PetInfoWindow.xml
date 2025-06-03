@@ -2430,7 +2430,7 @@
 		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<TopAnchorOffset>0</TopAnchorOffset>
 		<RightAnchorOffset>0</RightAnchorOffset>
-		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<BottomAnchorOffset>52</BottomAnchorOffset>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -2447,14 +2447,15 @@
 		<ScreenID>PetTargetHPGauge</ScreenID>
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
-		<Location>
-			<X>0</X>
-			<Y>0</Y>
-		</Location>
-		<Size>
-			<CX>161</CX>
-			<CY>24</CY>
-		</Size>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>50</TopAnchorOffset>
+		<BottomAnchorOffset>26</BottomAnchorOffset>
+		<LeftAnchorOffset>163</LeftAnchorOffset>
+		<RightAnchorOffset>324</RightAnchorOffset>
 		<GaugeOffsetY>0</GaugeOffsetY>
 		<Text>No Target</Text>
 		<TextOffsetY>4</TextOffsetY>
@@ -2480,6 +2481,452 @@
 			<Fill>A_pudGaugePetFill</Fill>
 		</GaugeDrawTemplate>
 	</Gauge>
+	<Gauge item="PIW_Pet1HPGauge">
+		<ScreenID>PetHPGauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>50</TopAnchorOffset>
+		<BottomAnchorOffset>26</BottomAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<RightAnchorOffset>161</RightAnchorOffset>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Text>No Pet</Text>
+		<TextOffsetY>4</TextOffsetY>
+		<TextOffsetX>8</TextOffsetX>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+			<R>150</R>
+			<G>26</G>
+			<B>36</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>61</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_pudGaugePetBackground</Background>
+			<Fill>A_pudGaugePetFill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
+	<Gauge item="PIW_Pet2HPGauge">
+		<ScreenID>PetHPGauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>24</TopAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<RightAnchorOffset>161</RightAnchorOffset>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Text>No Pet</Text>
+		<TextOffsetY>4</TextOffsetY>
+		<TextOffsetX>8</TextOffsetX>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+			<R>150</R>
+			<G>26</G>
+			<B>36</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>60</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_pudGaugePetBackground</Background>
+			<Fill>A_pudGaugePetFill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
+	<Gauge item="PIW_Pet3HPGauge">
+		<ScreenID>PetHPGauge</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>24</TopAnchorOffset>
+		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<LeftAnchorOffset>163</LeftAnchorOffset>
+		<RightAnchorOffset>324</RightAnchorOffset>
+		<GaugeOffsetY>0</GaugeOffsetY>
+		<Text>No Pet</Text>
+		<TextOffsetY>4</TextOffsetY>
+		<TextOffsetX>8</TextOffsetX>
+		<TextColor>
+			<R>240</R>
+			<G>240</G>
+			<B>240</B>
+		</TextColor>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<!--<TooltipReference/>-->
+		<FillTint>
+			<R>150</R>
+			<G>26</G>
+			<B>36</B>
+		</FillTint>
+		<DrawLinesFill>false</DrawLinesFill>
+		<EQType>59</EQType>
+		<GaugeDrawTemplate>
+			<Background>A_pudGaugePetBackground</Background>
+			<Fill>A_pudGaugePetFill</Fill>
+		</GaugeDrawTemplate>
+	</Gauge>
+	<Label item="PIW_PetTauntLabel">
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>163</LeftAnchorOffset>
+		<RightAnchorOffset>200</RightAnchorOffset>
+		<Text>Taunt:</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_PetFocusLabel">
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>163</LeftAnchorOffset>
+		<RightAnchorOffset>200</RightAnchorOffset>
+		<Text>Focus:</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_PetHoldLabel">
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>244</LeftAnchorOffset>
+		<RightAnchorOffset>281</RightAnchorOffset>
+		<Text>Hold:</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_PetGHoldLabel">
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>244</LeftAnchorOffset>
+		<RightAnchorOffset>281</RightAnchorOffset>
+		<Text>GHold:</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet1TauntState">
+		<EQType>6685</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>200</LeftAnchorOffset>
+		<RightAnchorOffset>210</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet2TauntState">
+		<EQType>6686</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>214</LeftAnchorOffset>
+		<RightAnchorOffset>224</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet3TauntState">
+		<EQType>6687</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>228</LeftAnchorOffset>
+		<RightAnchorOffset>238</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignLeft>true</AlignLeft>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet1FocusState">
+		<EQType>6694</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>200</LeftAnchorOffset>
+		<RightAnchorOffset>210</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet2FocusState">
+		<EQType>6695</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>214</LeftAnchorOffset>
+		<RightAnchorOffset>224</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet3FocusState">
+		<EQType>6696</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>228</LeftAnchorOffset>
+		<RightAnchorOffset>238</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignLeft>true</AlignLeft>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet1HoldState">
+		<EQType>6688</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>281</LeftAnchorOffset>
+		<RightAnchorOffset>291</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet2HoldState">
+		<EQType>6689</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>295</LeftAnchorOffset>
+		<RightAnchorOffset>305</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet3HoldState">
+		<EQType>6690</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>52</TopAnchorOffset>
+		<BottomAnchorOffset>40</BottomAnchorOffset>
+		<LeftAnchorOffset>309</LeftAnchorOffset>
+		<RightAnchorOffset>319</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignLeft>true</AlignLeft>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet1GHoldState">
+		<EQType>6691</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>281</LeftAnchorOffset>
+		<RightAnchorOffset>291</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignRight>true</AlignRight>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet2GHoldState">
+		<EQType>6692</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>295</LeftAnchorOffset>
+		<RightAnchorOffset>305</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignCenter>true</AlignCenter>
+		<NoWrap>true</NoWrap>
+	</Label>
+	<Label item="PIW_Pet3GHoldState">
+		<EQType>6693</EQType>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>false</TopAnchorToTop>
+		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>40</TopAnchorOffset>
+		<BottomAnchorOffset>28</BottomAnchorOffset>
+		<LeftAnchorOffset>309</LeftAnchorOffset>
+		<RightAnchorOffset>319</RightAnchorOffset>
+		<Text>0</Text>
+		<TextColor>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TextColor>
+		<AlignLeft>true</AlignLeft>
+		<NoWrap>true</NoWrap>
+	</Label>
 	<Screen item="PIW_Hidden">
 		<Location>
 			<X>0</X>
@@ -2504,9 +2951,7 @@
 		<Pieces>PIW_Pet12_Button</Pieces>		
 		<Pieces>PIW_Pet13_Button</Pieces>	
 		<Pieces>PIW_PetHPGauge</Pieces>
-		<Pieces>PIW_PetTargetHPGauge</Pieces>
 	</Screen>
-
 	<Screen item="PetInfoWindow">
 		<RelativePosition>false</RelativePosition>
 		<Location>
@@ -2517,8 +2962,8 @@
 			<CX>253</CX>
 			<CY>115</CY>
 		</Size>
-		<MinHSize>26</MinHSize>
-		<MinVSize>26</MinVSize>
+		<MinHSize>324</MinHSize>
+		<MinVSize>78</MinVSize>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -2532,6 +2977,26 @@
 		<Style_Client_Movable>true</Style_Client_Movable>
 		<Escapable>false</Escapable>
 		<Pieces>Screen:PIW_Hidden</Pieces>
+		<Pieces>PIW_PetTauntLabel</Pieces>
+		<Pieces>PIW_Pet1TauntState</Pieces>
+		<Pieces>PIW_Pet2TauntState</Pieces>
+		<Pieces>PIW_Pet3TauntState</Pieces>
+		<Pieces>PIW_PetFocusLabel</Pieces>
+		<Pieces>PIW_Pet1FocusState</Pieces>
+		<Pieces>PIW_Pet2FocusState</Pieces>
+		<Pieces>PIW_Pet3FocusState</Pieces>
+		<Pieces>PIW_PetHoldLabel</Pieces>
+		<Pieces>PIW_Pet1HoldState</Pieces>
+		<Pieces>PIW_Pet2HoldState</Pieces>
+		<Pieces>PIW_Pet3HoldState</Pieces>
+		<Pieces>PIW_PetGHoldLabel</Pieces>
+		<Pieces>PIW_Pet1GHoldState</Pieces>
+		<Pieces>PIW_Pet2GHoldState</Pieces>
+		<Pieces>PIW_Pet3GHoldState</Pieces>
+		<Pieces>PIW_PetTargetHPGauge</Pieces>
+		<Pieces>PIW_Pet1HPGauge</Pieces>
+		<Pieces>PIW_Pet2HPGauge</Pieces>
+		<Pieces>PIW_Pet3HPGauge</Pieces>
 		<Pieces>Screen:PIW_BuffWindow</Pieces>
 		
 	</Screen>

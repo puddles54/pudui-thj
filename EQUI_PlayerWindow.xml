@@ -134,12 +134,13 @@
 		<Animation>A_AttackIndicatorFill</Animation>
 		<AutoDraw>false</AutoDraw>
 		<AutoStretch>true</AutoStretch>
-		<LeftAnchorOffset>0</LeftAnchorOffset>
-		<TopAnchorOffset>0</TopAnchorOffset>
-		<BottomAnchorOffset>54</BottomAnchorOffset>
-		<RightAnchorOffset>6</RightAnchorOffset>
 		<BottomAnchorToTop>true</BottomAnchorToTop>
-		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<LeftAnchorOffset>6</LeftAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>53</BottomAnchorOffset>
+		<RightAnchorOffset>0</RightAnchorOffset>
 	</StaticAnimation>
 	<Ui2DAnimation item="A_PWCSInCombat">
 		<Cycle>true</Cycle>
@@ -265,7 +266,7 @@
 			<Fill>A_pudGaugeEndManaFill</Fill>
 		</GaugeDrawTemplate>
 		<Location>
-			<X>6</X>
+			<X>26</X>
 			<Y>53</Y>
 		</Location>
 		<Size>
@@ -288,10 +289,11 @@
 		<AlignRight>false</AlignRight>
 		<Font>1</Font>
 		<AutoStretch>true</AutoStretch>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
 		<TopAnchorOffset>52</TopAnchorOffset>
 		<BottomAnchorOffset>62</BottomAnchorOffset>
-		<LeftAnchorOffset>206</LeftAnchorOffset>
-		<RightAnchorToLeft>false</RightAnchorToLeft>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
+		<RightAnchorOffset>26</RightAnchorOffset>
 		<Style_Tooltip>false</Style_Tooltip>
 	</Label>
 	<Button item="PW_CombatStateAnim">
@@ -304,7 +306,7 @@
 			<CY>24</CY>
 		</DecalSize>
 		<Location>
-			<X>206</X>
+			<X>20</X>
 			<Y>29</Y>
 		</Location>
 		<Size>
@@ -341,12 +343,12 @@
 			<Normal>A_ParcelsIcon</Normal>
 		</ButtonDrawTemplate>
 		<AutoStretch>true</AutoStretch>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
 		<BottomAnchorOffset>45</BottomAnchorOffset>
 		<TopAnchorOffset>20</TopAnchorOffset>
-		<RightAnchorOffset>0</RightAnchorOffset>
-		<LeftAnchorOffset>25</LeftAnchorOffset>
-		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<RightAnchorOffset>25</RightAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
 	</Button>
 	<Button item="PW_ParcelsOverLimitIcon">
 		<ScreenID>PW_ParcelsOverLimitIcon</ScreenID>
@@ -358,12 +360,12 @@
 			<Normal>A_ParcelsOverLimitIcon</Normal>
 		</ButtonDrawTemplate>
 		<AutoStretch>true</AutoStretch>
-		<BottomAnchorOffset>36</BottomAnchorOffset>
-		<TopAnchorOffset>11</TopAnchorOffset>
-		<RightAnchorOffset>30</RightAnchorOffset>
-		<LeftAnchorOffset>55</LeftAnchorOffset>
-		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<LeftAnchorToLeft>false</LeftAnchorToLeft>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<BottomAnchorOffset>45</BottomAnchorOffset>
+		<TopAnchorOffset>20</TopAnchorOffset>
+		<RightAnchorOffset>25</RightAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
 	</Button>
 	
 	<Gauge item="Player_HP">
@@ -392,7 +394,7 @@
 			<CY>30</CY>
 		</Size>
 		<Location>
-			<X>6</X>
+			<X>26</X>
 			<Y>0</Y>
 		</Location>
 	</Gauge>
@@ -446,11 +448,11 @@
 	<Screen item="Player_ScreenHPLabel">
 		<ScreenID>HPLabel</ScreenID>
 		<Size>
-			<CX>30</CX>
+			<CX>26</CX>
 			<CY>30</CY>
 		</Size>
 		<Location>
-			<X>205</X>
+			<X>0</X>
 			<Y>0</Y>
 		</Location>
 		<Pieces>Player_HPLabelShadow</Pieces>
@@ -516,7 +518,7 @@
 			<Fill>A_pudGaugeEndManaFill</Fill>
 		</GaugeDrawTemplate>
 		<Location>
-			<X>6</X>
+			<X>26</X>
 			<Y>41</Y>
 		</Location>
 		<Size>
@@ -576,7 +578,7 @@
 			<Fill>A_pudGaugeEndManaFill</Fill>
 		</GaugeDrawTemplate>
 		<Location>
-			<X>6</X>
+			<X>26</X>
 			<Y>29</Y>
 		</Location>
 		<Size>
