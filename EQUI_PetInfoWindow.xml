@@ -2424,13 +2424,13 @@
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
 		<TopAnchorToTop>true</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>false</RightAnchorToLeft>
-		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>79</BottomAnchorOffset>
+		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<RightAnchorOffset>0</RightAnchorOffset>
-		<BottomAnchorOffset>52</BottomAnchorOffset>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -2448,12 +2448,12 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>50</TopAnchorOffset>
-		<BottomAnchorOffset>26</BottomAnchorOffset>
+		<TopAnchorOffset>81</TopAnchorOffset>
+		<BottomAnchorOffset>107</BottomAnchorOffset>
 		<LeftAnchorOffset>163</LeftAnchorOffset>
 		<RightAnchorOffset>324</RightAnchorOffset>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -2486,12 +2486,12 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>50</TopAnchorOffset>
-		<BottomAnchorOffset>26</BottomAnchorOffset>
+		<TopAnchorOffset>81</TopAnchorOffset>
+		<BottomAnchorOffset>107</BottomAnchorOffset>
 		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<RightAnchorOffset>161</RightAnchorOffset>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -2524,12 +2524,12 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>24</TopAnchorOffset>
-		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<TopAnchorOffset>109</TopAnchorOffset>
+		<BottomAnchorOffset>135</BottomAnchorOffset>
 		<LeftAnchorOffset>0</LeftAnchorOffset>
 		<RightAnchorOffset>161</RightAnchorOffset>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -2562,12 +2562,12 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>24</TopAnchorOffset>
-		<BottomAnchorOffset>0</BottomAnchorOffset>
+		<TopAnchorOffset>109</TopAnchorOffset>
+		<BottomAnchorOffset>135</BottomAnchorOffset>
 		<LeftAnchorOffset>163</LeftAnchorOffset>
 		<RightAnchorOffset>324</RightAnchorOffset>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -2598,14 +2598,14 @@
 	<Label item="PIW_PetTauntLabel">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>163</LeftAnchorOffset>
-		<RightAnchorOffset>200</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>1</LeftAnchorOffset>
+		<RightAnchorOffset>37</RightAnchorOffset>
 		<Text>Taunt:</Text>
 		<TextColor>
 			<R>255</R>
@@ -2618,14 +2618,14 @@
 	<Label item="PIW_PetFocusLabel">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>163</LeftAnchorOffset>
-		<RightAnchorOffset>200</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>1</LeftAnchorOffset>
+		<RightAnchorOffset>37</RightAnchorOffset>
 		<Text>Focus:</Text>
 		<TextColor>
 			<R>255</R>
@@ -2638,14 +2638,14 @@
 	<Label item="PIW_PetHoldLabel">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>244</LeftAnchorOffset>
-		<RightAnchorOffset>281</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>81</LeftAnchorOffset>
+		<RightAnchorOffset>118</RightAnchorOffset>
 		<Text>Hold:</Text>
 		<TextColor>
 			<R>255</R>
@@ -2658,14 +2658,14 @@
 	<Label item="PIW_PetGHoldLabel">
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>244</LeftAnchorOffset>
-		<RightAnchorOffset>281</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>81</LeftAnchorOffset>
+		<RightAnchorOffset>118</RightAnchorOffset>
 		<Text>GHold:</Text>
 		<TextColor>
 			<R>255</R>
@@ -2679,14 +2679,14 @@
 		<EQType>6685</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>200</LeftAnchorOffset>
-		<RightAnchorOffset>210</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>37</LeftAnchorOffset>
+		<RightAnchorOffset>47</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2700,14 +2700,14 @@
 		<EQType>6686</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>214</LeftAnchorOffset>
-		<RightAnchorOffset>224</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>51</LeftAnchorOffset>
+		<RightAnchorOffset>61</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2721,14 +2721,14 @@
 		<EQType>6687</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>228</LeftAnchorOffset>
-		<RightAnchorOffset>238</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>65</LeftAnchorOffset>
+		<RightAnchorOffset>75</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2742,14 +2742,14 @@
 		<EQType>6694</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>200</LeftAnchorOffset>
-		<RightAnchorOffset>210</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>37</LeftAnchorOffset>
+		<RightAnchorOffset>47</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2763,14 +2763,14 @@
 		<EQType>6695</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>214</LeftAnchorOffset>
-		<RightAnchorOffset>224</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>51</LeftAnchorOffset>
+		<RightAnchorOffset>61</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2784,14 +2784,14 @@
 		<EQType>6696</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>228</LeftAnchorOffset>
-		<RightAnchorOffset>238</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>65</LeftAnchorOffset>
+		<RightAnchorOffset>75</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2805,14 +2805,14 @@
 		<EQType>6688</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>281</LeftAnchorOffset>
-		<RightAnchorOffset>291</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>118</LeftAnchorOffset>
+		<RightAnchorOffset>128</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2826,14 +2826,14 @@
 		<EQType>6689</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>295</LeftAnchorOffset>
-		<RightAnchorOffset>305</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>132</LeftAnchorOffset>
+		<RightAnchorOffset>142</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2847,14 +2847,14 @@
 		<EQType>6690</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>52</TopAnchorOffset>
-		<BottomAnchorOffset>40</BottomAnchorOffset>
-		<LeftAnchorOffset>309</LeftAnchorOffset>
-		<RightAnchorOffset>319</RightAnchorOffset>
+		<TopAnchorOffset>0</TopAnchorOffset>
+		<BottomAnchorOffset>12</BottomAnchorOffset>
+		<LeftAnchorOffset>146</LeftAnchorOffset>
+		<RightAnchorOffset>156</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2868,14 +2868,14 @@
 		<EQType>6691</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>281</LeftAnchorOffset>
-		<RightAnchorOffset>291</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>118</LeftAnchorOffset>
+		<RightAnchorOffset>128</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2889,14 +2889,14 @@
 		<EQType>6692</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>295</LeftAnchorOffset>
-		<RightAnchorOffset>305</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>132</LeftAnchorOffset>
+		<RightAnchorOffset>142</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2910,14 +2910,14 @@
 		<EQType>6693</EQType>
 		<RelativePosition>true</RelativePosition>
 		<AutoStretch>true</AutoStretch>
-		<TopAnchorToTop>false</TopAnchorToTop>
-		<BottomAnchorToTop>false</BottomAnchorToTop>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
 		<LeftAnchorToLeft>true</LeftAnchorToLeft>
 		<RightAnchorToLeft>true</RightAnchorToLeft>
-		<TopAnchorOffset>40</TopAnchorOffset>
-		<BottomAnchorOffset>28</BottomAnchorOffset>
-		<LeftAnchorOffset>309</LeftAnchorOffset>
-		<RightAnchorOffset>319</RightAnchorOffset>
+		<TopAnchorOffset>12</TopAnchorOffset>
+		<BottomAnchorOffset>24</BottomAnchorOffset>
+		<LeftAnchorOffset>146</LeftAnchorOffset>
+		<RightAnchorOffset>156</RightAnchorOffset>
 		<Text>0</Text>
 		<TextColor>
 			<R>255</R>
@@ -2927,6 +2927,44 @@
 		<AlignLeft>true</AlignLeft>
 		<NoWrap>true</NoWrap>
 	</Label>
+	<Screen item="PIW_PetStateWindow">
+		<ScreenID>PetStateWindow</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<AutoStretch>true</AutoStretch>
+		<TopAnchorToTop>true</TopAnchorToTop>
+		<BottomAnchorToTop>true</BottomAnchorToTop>
+		<LeftAnchorToLeft>true</LeftAnchorToLeft>
+		<RightAnchorToLeft>true</RightAnchorToLeft>
+		<TopAnchorOffset>81</TopAnchorOffset>
+		<BottomAnchorOffset>107</BottomAnchorOffset>
+		<LeftAnchorOffset>163</LeftAnchorOffset>
+		<RightAnchorOffset>324</RightAnchorOffset>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>true</Style_Transparent>
+		<DrawTemplate>WDT_Inner</DrawTemplate>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>false</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+		<Pieces>PIW_PetTauntLabel</Pieces>
+		<Pieces>PIW_Pet1TauntState</Pieces>
+		<Pieces>PIW_Pet2TauntState</Pieces>
+		<Pieces>PIW_Pet3TauntState</Pieces>
+		<Pieces>PIW_PetFocusLabel</Pieces>
+		<Pieces>PIW_Pet1FocusState</Pieces>
+		<Pieces>PIW_Pet2FocusState</Pieces>
+		<Pieces>PIW_Pet3FocusState</Pieces>
+		<Pieces>PIW_PetHoldLabel</Pieces>
+		<Pieces>PIW_Pet1HoldState</Pieces>
+		<Pieces>PIW_Pet2HoldState</Pieces>
+		<Pieces>PIW_Pet3HoldState</Pieces>
+		<Pieces>PIW_PetGHoldLabel</Pieces>
+		<Pieces>PIW_Pet1GHoldState</Pieces>
+		<Pieces>PIW_Pet2GHoldState</Pieces>
+		<Pieces>PIW_Pet3GHoldState</Pieces>
+	</Screen>
 	<Screen item="PIW_Hidden">
 		<Location>
 			<X>0</X>
@@ -2963,7 +3001,7 @@
 			<CY>115</CY>
 		</Size>
 		<MinHSize>324</MinHSize>
-		<MinVSize>78</MinVSize>
+		<MinVSize>139</MinVSize>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>true</Style_Transparent>
@@ -2977,22 +3015,7 @@
 		<Style_Client_Movable>true</Style_Client_Movable>
 		<Escapable>false</Escapable>
 		<Pieces>Screen:PIW_Hidden</Pieces>
-		<Pieces>PIW_PetTauntLabel</Pieces>
-		<Pieces>PIW_Pet1TauntState</Pieces>
-		<Pieces>PIW_Pet2TauntState</Pieces>
-		<Pieces>PIW_Pet3TauntState</Pieces>
-		<Pieces>PIW_PetFocusLabel</Pieces>
-		<Pieces>PIW_Pet1FocusState</Pieces>
-		<Pieces>PIW_Pet2FocusState</Pieces>
-		<Pieces>PIW_Pet3FocusState</Pieces>
-		<Pieces>PIW_PetHoldLabel</Pieces>
-		<Pieces>PIW_Pet1HoldState</Pieces>
-		<Pieces>PIW_Pet2HoldState</Pieces>
-		<Pieces>PIW_Pet3HoldState</Pieces>
-		<Pieces>PIW_PetGHoldLabel</Pieces>
-		<Pieces>PIW_Pet1GHoldState</Pieces>
-		<Pieces>PIW_Pet2GHoldState</Pieces>
-		<Pieces>PIW_Pet3GHoldState</Pieces>
+		<Pieces>Screen:PIW_PetStateWindow</Pieces>
 		<Pieces>PIW_PetTargetHPGauge</Pieces>
 		<Pieces>PIW_Pet1HPGauge</Pieces>
 		<Pieces>PIW_Pet2HPGauge</Pieces>

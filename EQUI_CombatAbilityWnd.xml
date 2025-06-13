@@ -1056,7 +1056,7 @@
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>152</CX>
+			<CX>174</CX>
 			<CY>24</CY>
 		</Size>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -1076,7 +1076,6 @@
 		<DrawLinesFill>false</DrawLinesFill>
 		<EQType>26</EQType>
 		<GaugeDrawTemplate>
-			<Background>A_pudGaugePetBackground</Background>
 			<Fill>A_pudGaugePetFill</Fill>
 		</GaugeDrawTemplate>
 	</Gauge>
@@ -1084,7 +1083,7 @@
 		<ScreenID>CAW_OpenCombatSkillSelectWnd</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>180</X>
+			<X>0</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
@@ -1144,10 +1143,10 @@
 		<Style_Border>true</Style_Border>
 		<Style_Sizable>false</Style_Sizable>
 		<Escapable>false</Escapable>
+		<Pieces>CAW_OpenCombatSkillSelectWnd</Pieces>
 		<Pieces>CAW_CombatEffectTimeRemainingGauge</Pieces>
 		<Pieces>CAW_CombatEffectButton</Pieces>
 		<Pieces>CAW_CombatEffectLabel</Pieces>
-		<Pieces>CAW_OpenCombatSkillSelectWnd</Pieces>
 		<Pieces>Screen:CAW_Hidden</Pieces>
 	</Screen>
 </XML>

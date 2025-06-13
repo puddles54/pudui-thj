@@ -1587,7 +1587,7 @@
 		</TextColor>
 		<NoWrap>true</NoWrap>
 		<AlignRight>true</AlignRight>
-		<TooltipReference>Increases hard Armor Class (bypasses soft cap), and minimum melee damage.</TooltipReference>
+		<TooltipReference>Increases hard Armor Class (bypasses soft cap), and melee damage.</TooltipReference>
 	</Label>
 	<Label item="IW_STA">
 		<ScreenID>STALabel</ScreenID>
